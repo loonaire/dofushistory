@@ -200,7 +200,7 @@ Merci à Liche qui fait des vidéos sur le sujet et qui en a parler. [Voir sa vi
 
 ## CHANGELOG:
 
-04/11/2022: Ajout des informations sur les modifications de la carte de la grotte
-03/11/2022: grosse modifications sur les théories suite à la découverte de la v17b
-30/05/2021 : Mise à jour "finale" de l'article, sauf si un jour j'arrive à récuperer une version beta 17b, il est actuellement impossible d'aller chercher plus d'élément et de connaitre plus d'éléments.
-12/03/2021 : Ajout dans la conclusion d'une partie sur l'id du sort.
+04/11/2022: Ajout des informations sur les modifications de la carte de la grotte  
+03/11/2022: grosse modifications sur les théories suite à la découverte de la v17b  
+30/05/2021 : Mise à jour "finale" de l'article, sauf si un jour j'arrive à récuperer une version beta 17b, il est actuellement impossible d'aller chercher plus d'élément et de connaitre plus d'éléments.  
+12/03/2021 : Ajout dans la conclusion d'une partie sur l'id du sort.  
