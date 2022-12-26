@@ -1,7 +1,7 @@
 ---
 title: "De Dofus 1.9 à Dofus 1.29"
 date: 2022-12-25T14:05:16+01:00
-draft: true
+draft: false
 ---
 
 ***Cette article fait suite à l'article sur les beta du jeu, il s'agit d'un copier coller de l'article qui était dans l'acien dépot github, des choses sont surement fausses.***
