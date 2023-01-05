@@ -97,23 +97,45 @@ Quelques supposition sur l'emplacement de la grotte:
  
 La grotte est apparue avec la v17b, je me demande pourquoi remplacer la maison arbre par autre chose, surtout qu'il était possible de placer la grotte ailleurs, sauf si quelque chose d'autre étais prévu.
 
-## 6. Loopine
+## 6. L'accès à la grotte
+
+[Ce sujet](https://forums.jeuxonline.info/sujet/386260/message-pour-les-developpeurs-la-grotte-de-loopine) évoque la possibilité d'entrer dans la grotte dès septembre 2004 (version 1.0), il semble que la version v17b permettais de rentrer dans la grotte cependant le niveau semble avoir été augmenté. Lichen évoque un monstre terrifiant mais garde le mystère sur le contenu de la grotte, il est possible qu'en réalité l'accès à la grotte n'ai jamais été possible. Le mystère a toujours été gardé du coté des devs sur la grotte ainsi que sur le monstre, il semble surtout s'agir d'une blague des développeurs.  
+Sur cet autre [sujet](https://forums.jeuxonline.info/sujet/837323/quid-de-la-grotte-de-loopine) de 2007 il est questions des ressources pour accéder à la grotte, il fallais 1 sporme de champ champ, 1 testicule de mulou ainsi qu'un slip du chafer lancier, au départ il devais s'agir d'un slip de capitaine chafer cependant le nom du monstre a surement été modifié et renommer en chafer lancier. Les chafers sont apparus avec le cimetière d'amakna pour la version v17b, cela confirme la sortie de la grotte et de Loopine pour cette version. Les autres ressources sont également des ressources obtenables sur des monstres d'amakna, il semble donc que l'entrée de la grotte était une quête qui a été ajoutée mais jamais terminée: il était possible de donner les ressources au pnj, il les prenais mais il n'y avais pas de suite. Dans la version 1.39 de Dofus Rétro, le pnj n'eccepte pas les ressources.  
+
+C'est assez surprenant, dès sa sortie les informations sur la grotte ont été découvertes ou communiquées, bien quelle semble être un délire des développeurs pour créer un mystère, son contenu et son moyen d'accès ont toujours été connus.
+
+## 7. Loopine
 
 Loopine a été mis en place dans la version 17b. Il semble que cette version a ajouté les parchemins de caractéristiques, un bug lié a cet ajout est évoqué dans [un message du changelog de la beta v17.2b](https://web.archive.org/web/20040817025604/http://forum.dofus.com/CarnetBord/Dev/121065-ReV172bCorrectionsApporteesSuite). Le métier et le pnj Forgeron sont arrivés avec la beta v15b. Loopine possède le skin du pnj forgeron, il semble avoir été ajouté et crée pour la mise en place de quêtes d'obtention de parchemin.  
 
-Il se pourrais que Loopine soit le pseudo d'un ancien dev. Le pnj à pu être placé la pour permettre l'entrée dans la grotte via une future quête en plus de l'échange de parchemin. Pour rappel, les quêtes dans les moments de dofus 1.0 sont par exemple échanger des ressources contre un parchemin de caractéristique ou un équipement.
+Il se pourrais que Loopine soit le pseudo d'un ancien dev. Le pnj à pu être placé la pour permettre l'entrée dans la grotte via une future quête en plus de l'échange de parchemin. Pour rappel, les quêtes dans les moments de dofus 1.0 sont par exemple échanger des ressources contre un parchemin de caractéristique ou un équipement.  
 Le dialogue de pnj semble être lié à un lore autour de l'agence touriste et d'Hanniboul Smisse, le dialogue d'Hanniboul Smisse semble faire pensé qu'une quête sur l'agence touriste était envisagée mais finalement jamais sortie.
 
-## 7. Ma première supposition
+## 8. Une supposition sur la présence du bitolder de la fin de la beta à Dofus 1.9
 
-Je pense que le bitolder a été crée dans les moments de la beta au moment du rush de création des monstres pour les beta après la v12b, il semble avoir été crée très tot dans le développement et une grande partie de l'histoire du monstre semble avoir été crée autour de l'agence touriste. Surement pour des raisons de temps de développement, bien qu'il ai été crée et prêt pour les dernières beta, il étais prévu pour la version 1.0, peux être qu'il s'agissait d'un monstre pour le labyrinthe Dark Vlad. Cependant je pense que le sprite était corrompu ou incomplet et il n'a pas pu sortir, cependant au moment de la recompilation des sprites pour flash 7, il est possible qu'il ai été ajouté aux fichiers du client par inatention que qu'il y soit resté pendant plusieurs versions avant d'être retiré lors du passage du client à Flash 8. Le monstre aurait donc été retiré car non fonctionnel et inutile. J'ai également supposé qu'il aurais pu s'agir d'un pnj mais ce n'est pas possible, le monstre a un sort, des points de vie et des résistances.
+Il est possible que le bitolder a été crée dans les version beta au moment du rush de création des monstres pour les beta après la v12b, il semble avoir été crée très tot dans le développement et une grande partie de l'histoire du monstre semble avoir été crée autour de l'agence touriste. Surement pour des raisons de temps de développement, bien qu'il ai été crée et prêt pour les dernières beta, il étais prévu pour la version 1.0, peux être qu'il s'agissait d'un monstre pour le labyrinthe Dark Vlad. Cependant je pense que le sprite était corrompu ou incomplet et il n'a pas pu sortir, cependant au moment de la recompilation des sprites pour flash 7, il est possible qu'il ai été ajouté aux fichiers du client par inatention que qu'il y soit resté pendant plusieurs versions avant d'être retiré lors du passage du client à Flash 8. Le monstre aurait donc été retiré car non fonctionnel et inutile. J'ai également supposé qu'il aurais pu s'agir d'un pnj mais ce n'est pas possible, le monstre a un sort, des points de vie et des résistances.
 
-## 8. Une supposition que je pense fortement possible
+## 9. Une supposition sur la date de création du Bitolder
 
 Le lien du monstre par rapport au noeul pourrais provenir de sa création pour les toutes premières beta (peux être même avant), la manière de gérer le sprite est proche des premières beta (pas de coup critique) alors que les monstres de la v17b possèdent des coups critiques. Dans ce cas, le monstre aurais été crée avant la modification des numéros de sprite de monstres et il serait bien plus vieux que ce qu'on pense, Tot évoque [dans cette interview](https://youtu.be/KKbyv05FeNE?t=265) une nuit blanche de création d'éléments humoristique pour le jeu, il n'y a aucune date précise mais il se peux que le bitolder soit issu de ce moment.  
 Le fichier a peux être été tenté d'être modifié pour être compatible avec les versions utilisant flash 6 puis 7 du jeu mais sans réussite.  
-Cette théorie me semble largement possible mais si elle vraie, le bitolder proviens peux être d'un autre jeu flash d'ankama ou d'une version alpha du jeu voir même du projet Duel et dans ce cas, le Bitolder pourrais être lié au Moon blanc et à d'autres monstres.  
-J'ai également remarqué que les monstres sont ajoutés au compte goutte, ce qui veux dire que si le bitolder a été à un moment imaginé et son id a été défini, il ne peux pas s'agir d'un placeholder mais il a bel et bien été pensé pour sortir. Comme je l'ai dit, il s'agit peux être d'un très ancien sprite qui a été tenté d'être mis à jour vers flash 6 puis 7 sans succès, ce qui expliquerai sa présence puis sa suppression.
+Cette théorie me semble largement possible mais si elle vraie, le bitolder proviens peux être d'un autre jeu flash d'ankama ou d'une version alpha du jeu voir même du projet Duel et dans ce cas, le Bitolder pourrais être lié au Moon blanc et à d'autres monstres (voir l'article sur les premiers monstres de dofus).  
+J'ai également remarqué que les monstres sont ajoutés de manière limitées, ce qui veux dire que si le bitolder a été à un moment imaginé et son id a été défini, il ne peux pas s'agir d'un placeholder mais il a bel et bien été pensé pour sortir. Comme je l'ai dit, il s'agit peux être d'un très ancien sprite qui a été tenté d'être mis à jour vers flash 6 puis 7 sans succès, ce qui expliquerai sa présence puis sa suppression.
+
+## 10. Une troisième supposition
+
+Celle-ci est en rapport avec la précédente. Dans mon article sur le bestiaire de la beta de dofus j'évoque le monstre croquefeuille, je pense que le bitolder est lié à ce monstre.  
+Pour rappel, le monstre croquefeuille est visible [ici](https://web.archive.org/web/20040315043159/http://www.dofus.com:80/?page=explorations&rubrique=bestiaire&ssrubrique=forces_de_la_nuit&contenu=bestiaire_display). Les monstres du bestiaire de la beta ont pour certains été modifiés, certains ont été renommé et d'autres redessinés, ces modifications viennent du fait que les monstres présentés sur le bestiaire sont des monstres de démonstration, ils ne sont pas dessinés pour être ajouté au jeu mais pour être présentés.  
+Pour en revenir au croquefeuille, on remarque que son dessin à des similarités avec le bitolder, il est de la même couleur que le bitolder (jaune foncé), il a un oeil (rouge pour le croquefeuille, bleu pour le bitolder), les oreilles ont des rayures et pour le croquefeuille, sur la partie basse de son corps il y a des ellipses blanche qui font pensé au bitolder. Sa description est également intéressante:
+ 
+>Le Croquefeuille  
+>Sous son air ridicule, le Croquefeuille est... vraiment ridicule. Il ne possède pas de pouvoirs particuliers, sa force résidant justement dans son allure.  
+Les ennemis étant pris de fou rire à la vue de ce petit corps à un oeil, ils se déconcentrent et perdent tous leurs moyens. C'est généralement à ce moment bien souvent que surgit un Minothoror...  
+Humilié depuis la fin des temps, habitué à être considéré comme la créature la plus ridicule du monde, le Croquefeuille est rancunier, ne souffre plus d'aucune moquerie et a rejoint les forces de la nuit.
+  
+La description correspond plus ou moins au bitolder: ses sorts sont "nuls" (le bitolder à un seul sort au cac...), son skin fait rire et déconcentre les adversaires et il est considéré comme étant ridicule.  
+
+Le bitolder pourrais donc être un craquage lors que le moment de dessiner ce monstre pour le jeu a eu lieu faisant d'un monstre avec un potentiel intéressant un monstre qui restera un mythe et un mystère.
 
 ## La suite
 
@@ -133,7 +155,8 @@ Merci à Liche qui fait des vidéos sur le sujet et qui en a parler. [Voir sa vi
 
 ## CHANGELOG:
 
-1/01/2023: refonte de l'article et simplification pour éviter les répétitions et ajout des parties sur mes suppositions
+05/01/2023: ajout d'une partie sur l'accès à la grotte et ajout d'une 3ième supposition
+01/01/2023: refonte de l'article et simplification pour éviter les répétitions et ajout des parties sur mes suppositions
 26/12/2022: Modification sur Loopine
 04/11/2022: Ajout des informations sur les modifications de la carte de la grotte  
 03/11/2022: grosse modifications sur les théories suite à la découverte de la v17b  
