@@ -135,7 +135,9 @@ Humilié depuis la fin des temps, habitué à être considéré comme la créatu
   
 La description correspond plus ou moins au bitolder: ses sorts sont "nuls" (le bitolder à un seul sort au cac...), son skin fait rire et déconcentre les adversaires et il est considéré comme étant ridicule.  
 
-Le bitolder pourrais donc être un craquage lors que le moment de dessiner ce monstre pour le jeu a eu lieu faisant d'un monstre avec un potentiel intéressant un monstre qui restera un mythe et un mystère.
+Le bitolder pourrais être un craquage lors du moment de dessiner ce monstre pour le jeu a eu lieu faisant d'un monstre avec un potentiel intéressant un monstre qui restera un mythe et un mystère.
+
+Que le bitolder ai remplacé le croquefeuille expliquerai le déplacement de la maison arbre, le croquefeuille a pu être prévu pour être placé dans la maison arbre avec un background autour de la présence du monstre dans la maison (croque feuille car il mangerai des... feuilles?) cependant au moment de le créer pour l'intégrer au jeu, le craque du bitolder aurais pu provoquer un changement du lore, et l'abandon du croquefeuille. La grotte et Loopine aurais pu être placé ici pour le lore et la maison arbre, à la manière des premières beta, simplement déplacée et laissée pendant un temps sans utilité.
 
 ## La suite
 
@@ -155,6 +157,7 @@ Merci à Liche qui fait des vidéos sur le sujet et qui en a parler. [Voir sa vi
 
 ## CHANGELOG:
 
+07/01/2023: Ajout du lien entre le croquefeuille et la maison arbre
 05/01/2023: ajout d'une partie sur l'accès à la grotte et ajout d'une 3ième supposition
 01/01/2023: refonte de l'article et simplification pour éviter les répétitions et ajout des parties sur mes suppositions
 26/12/2022: Modification sur Loopine
