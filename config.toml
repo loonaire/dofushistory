@@ -5,7 +5,7 @@ relativeURLs = true
 languageCode = "fr-fr"
 title = "Dofus 1 History"
 theme = "hugo-theme-relearn"
-copyright = "Contenu géré par Loonaire, certaines images utilisées sont la propriétés d'ankama games"
+copyright = "Contenu géré par Loonaire, certaines images utilisées sont la propriété d'Ankama Games"
 
 defaultContentLanguage = "fr"
 [Languages]
