@@ -94,6 +94,8 @@ Cette mise à jour semble être celle du déplacement de Tainéla au dessus d'as
 
 Le patch optionnel 1.14.1 est sorti le 19/07/2006, il est possible de le lire [ici](https://web.archive.org/web/20061117005006/http://dofus.jeuxonline.info/actualites/11462.html), il contient surtout des petits debug du client et la 1.14.0 continue d'être pleinement utilisable.
 
+Le 29/08/2006 un nouveau serveur francophone est ouvert, il s'agit de Menalt.
+
 Le 5/09/2006 sort la version 1.14.2, [disponible ici](https://web.archive.org/web/20060911071014/http://dofus.jeuxonline.info:80/articles/2632/Notes_de_version_1.14.2) qui terminera les modifications du clients de la version 1 de dofus. Cette version aurais du être la version 1.15 qui sortira en octobre, elle intègre beaucoup de grosse modifications sur la partie connexion au jeu.
 
 
