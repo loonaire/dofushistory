@@ -67,7 +67,7 @@ Mise en ligne le 25/04/2006, les modifications sont disponible [ici](https://www
 
 Pour commencer, il y a l'ajout des cadeaux d'abonnement, ce qui implique un changement de l'interface de jeu (j'y reviens plus tard). Il y a également la suite et fin de l'ajout de zones liées à Astrub, à ce moment il ne manque à ma connaissance que la zone des calanques d'astrub (qui arrive en 1.19), la zone de la foret des abraknyde est également agrandie (ajout de la zone de la foret des abraknydes sombres ainsi que quelques maps de la forêt des abraknydes). Il y a également l'ajout des fantomes de familiers, la simplification du divorce en allant à l'église, des modifications sur les IA ainsi que des changements sur les repop des monstres.
 
-Une grosse nouveauté est le désalignement, lors de sa création il était possible d'aller en 4;0 pour redevenir neutre ([source](https://web.archive.org/web/20230306173811/https://forums.jeuxonline.info/sujet/670097/desalignement)).
+Une grosse nouveauté est le changement d'alignement, lors de sa création il était possible d'aller en 4;0 pour redevenir neutre ([source](https://web.archive.org/web/20230306173811/https://forums.jeuxonline.info/sujet/670097/desalignement)).
 
 Coté interface, l'inventaire est revu pour avoir des filtres pour afficher seulements certains type d'items mais il y a également une autre grosse refonte, LA modification de cette version est le changement de l'interface de connexion et de choix de personnage. Ces changements permettent: 
 - L'ajout du système de cadeaux
@@ -207,7 +207,9 @@ Elle ajoute les éléments importants suivants:
 - Ajout des familiers aux panoplies associées
 - Correction des fuites mémoires des versions 1.18.x
 
-Il y a également eu la remise en vente des maisons abandonnées ([source](https://web.archive.org/web/20071021173102/http://forum.dofus.fr/topic.php?lang=fr&id=91343)).
+Une modification non indiquée dans le changelog est la gestion des paramètres de certains éléments du client via le fichier lang (activation ou non de la censure des noms, de l'inscription depuis le client, de la réponse secrete pour la suppression de personnage ainsi que d'autres options).
+
+Il y a également eu une remise en vente des maisons abandonnées ([source](https://web.archive.org/web/20071021173102/http://forum.dofus.fr/topic.php?lang=fr&id=91343)).
 
 
 ## L'été 2007, encore une de transition
