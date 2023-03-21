@@ -1,0 +1,119 @@
+https://www.dofus.com/fr/forum/1750-dofus/27073-liste-ajouts-extension-pandala
+
+C'est avec quelques jours de retard (je sais ce n'est pas bien...) que nous allons vous présenter un peu plus en détail la liste des ajouts de cette extension qui déchire et divise la communauté (on me signale qu'elle déchire aussi sa race, mais bon).
+
+Les modifications de sorts.
+L'introduction des sorts de niveau 6 nous a poussé a revoir plusieurs sorts et ça n'est pas fini (tremblez tofus !). L'équilibrage des classes continue, et nous avons décidé de simplifier et d'uniformiser le système d'oubli de sorts, pour ne pas trop pénaliser les joueurs (mais un peu quand même, c'est tellement bon de faire souffrir les joueurs, niac).
+
+Le contenu.
+L'île de Pandala, c'est avant tout une grosse île, une destination de rêve, un climat et une végétation exotique. Que vous soyez débutant ou non, vous devriez y trouverez votre compte, ne serait-ce que pour l'alcool de riz.
+Le contenu de l'île s'adresse tout de même aux groupes d'aventuriers de moyen et de haut niveau, les nouvelles créatures qui y vivent, sont assez dangereuses et parfois presque aussi fourbes que la plus fourbe des fourbasses. Les créatures profitent du nouveau système d'état sur certains sorts, ce qui leur permet de faire quelques attaques assez originales.
+Et oui, la fourberie des daives aussi, ne connaît aucune limite.
+
+Au niveau des donjons, un seul est accessible actuellement, il est destiné aux groupes de joueurs de niveau moyen, et vous permettra de récupérer une récompense assez originale qui vous permettra d'impressionner facilement vos amis.
+Les autres donjons sont encore en cours de finition et seront accessibles dans moins de quinze jours, lors de la prochaine mise à jour du client de Dofus.
+
+Avec cela, il y a également beaucoup de nouveaux objets disponibles. Les objets de haut niveau seront accessibles dans les jours qui viennent et pour la prochaine mise à jour du client. Globalement, ces objets de haut niveau nécessiteront d'avoir un certain grade en mode pvp. Seuls les joueurs qui participent activement au système de pvp pourront porter les objets les plus puissants de Dofus.
+
+"Mais c'est injuste, ça signifie que si je ne prends jamais de risques, je ne pourrai pas profiter de tous les avantages du jeu ?"
+
+Voilà c'est exactement ça.
+
+De nouvelles quêtes ont été ajoutées sur cette île, elles ne devraient pas vous décevoir, elles vous permettront d'en apprendre un peu plus sur les habitants de l'île de Pandala, et de vous exercer aux différentes techniques martiales des écoles de Pandawushu (je sais c'est très intrigant).
+
+Une nouvelle classe.
+La classe des Pandawas est une nouvelle classe qui profite des dernières améliorations que nous avons ajoutées à notre système de sorts, à savoir le système d'état.
+Nous vous encourageons à l'essayer, elle est encore en phase de test, et nous avons besoin de vos avis pour continuer à l'équilibrer.
+Attention cependant, dans un mois environ, tous les personnages Pandawas seront réinitialisés (les personnages seront repassés au niveau 1).
+Cette classe de personnage n'est accessible qu'aux joueurs abonnés.
+
+Nouveau système de pvp
+Vous l'attendiez tous, et nous l'avons fait (non je ne parle pas des montures...).
+Le nouveau système de pvp est censé relancer les terribles conflits entre Bonta et Brâkmar.
+
+4 villages à conquérir ont été placés sur l'île de Pandala. Chaque village contient des ressources plus ou moins rares et des des combattants à affronter dans les Dojos.
+
+Le système de conquête de territoire a lui aussi été modifié, il est désormais possible (et presque obligatoire) de lancer des attaques massives pour conquérir des territoires. Même si l'ouverture d'un village et la capture du prisme peuvent encore se faire à huit joueurs, il est possible maintenant de faire intervenir toute une "armée" de joueurs dans une prise de village.
+
+En outre, la défense des village a été grandement simplifiée, tous les alignés sont maintenant prévenus lorsque leurs zones sont attaquées (nous créerons un channel dédié à ces messages pour la prochaine mise à jour du client), et surtout, il est maintenant possible de venir facilement défendre ses villages, puisqu'un zaap gratuit depuis une zone alignée a été disposé dans chaque village.
+
+Vous avez également la possibilité d'utiliser des potions de cité qui vous permettent de rejoindre depuis n'importe où le zaap de votre cité. Ainsi, vous pouvez en utilisant une simple potion puis un zaap gratuit, vous retrouver au coeur de l'action, prêts à pourfendre ceux qui attaquent votre village.
+
+Il nous reste encore beaucoup de rééquilibrages à effectuer sur le système de conquête de territoires, nous comptons sur vos avis pour améliorer cela.
+
+A part ça, le nouveau système de grades, vous permet de valoriser vos combats en pvp. Au fil des mises à jour, les grades auront de plus en plus d'importance et vous donneront accès à d'autres privilèges et avantages.
+Actuellement, les grades vous permettent des objets puissants et de payer moins cher certaines taxes.
+
+Les boucliers
+Des boucliers ont été ajoutés, ainsi qu'un nouveau métier de forgeur de bouclier. Ces boucliers vous permettent de vous protéger des dégâts, mais uniquement des dégâts provoqués par les autres joueurs, ils ne servent à rien contre les attaques des monstres.
+Ces boucliers offrent des résistances très importantes aux attaques et permettent de revaloriser le pvp en rendant les combats plus longs et stratégiques. Nous rajouterons d'autres boucliers au fil des mises à jour, comme nous le faisons pour les autres équipements.
+
+Les boucliers n'ont aucun pré-requis de niveau, ils n'ont que des pré-requis de grades, ce qui signifie qu'un joueur de niveau 40, mais très bon en pvp, peut très bien porter un des boucliers les plus puissants du jeu, alors qu'un joueur de très haut niveau, mais avec un grade de pvp faible, devra se contenter des boucliers moins puissants.
+
+Modification de la carte du jeu
+La carte du jeu a été modifiée, elle s'affiche maintenant en plein écran et son utilisation est désormais plus fluide et souple.
+
+Nous avons modifié le système d'affichage des icônes, pour qu'ils soient plus lisibles.
+
+Nous avons ajouté un système de filtres, vous pouvez ainsi choisir quels sont les types de bâtiments que vous voulez afficher sur la carte.
+
+Nous avons ajouté les descriptions en "roll-over" des bâtiments et lieux sur la carte. Il suffit pour cela de passer le curseur de votre souris sur un icône, pour voir la description d'afficher.
+
+Le niveau de zoom et la position sur la carte sont désormais enregistrés, vous pouvez donc ouvri et fermer la carte du monde sans avoir à refaire les mêmes manipulations.
+
+Nous avons ajouté un bouton pour recentrer la carte sur votre position actuelle.
+
+Modification des donjons
+Suite au nombreux problèmes d'attente dans les donjons, nous avions pensé à les instancier.
+
+Et puis finalement, nous avons préféré modifier leur fonctionnement, pour qu'ils ne soient pas instanciés.
+
+Dorénavant, les groupes de monstres présents dans les donjons, réapparaissent dès que le combat est lancé.
+Voilà c'est aussi simple que cela.
+
+Il n'y a donc plus aucune attente dans les donjons, et vous pouvez toujours croiser d'autres équipes et aider un joueur perdu en cours de route par exemple.
+
+Un gros problème de Dofus vient d'être résolu, ce qui devrait nous inciter à créer à l'avenir encore plus de donjons.
+
+Modification des hôtels de vente
+Les hôtels de vente de Bonta et Brâkmar ont été modifiés. Vous pouvez désormais vendre 20 lots en même temps contre 5 à Astrub.
+
+Les délais de vente sont maintenant de deux semaines contre 3 jours à Astrub.
+
+La taxe de mise en vente est de 2% pour les neutres et 1% pour les alignés contre 5% à Astrub.
+
+Modification du mode marchand
+Une taxe de 1/10000 a été instaurée lors du passage en mode marchand. Cette taxe doit servir à dissuader les comportements abusifs.
+
+Des zones réservées aux marchands ont été rajoutées, elles sont facilement repérables sur la carte du monde et permettent à beaucoup plus de joueurs de s'installer en mode marchand. Les places de marchés de Bonta et Brâkmar autorisement par exemple jusqu'à 30 marchands sur les mêmes cartes.
+
+Système de capture d'âmes
+Cette incroyable fonctionnalité vous permet si vous réussissez à apprendre le sort nécessaire et à le lancer correctement en combat, de capturer les âmes de groupes entiers de monstres que vous avez réussi à battre.
+Vous avez ensuite la possibilité de les réinvoquer dans des arènes spéciales pour gagner une seconde fois de l'expérience et des ressources.
+
+Cette fonctionnalité a été conçue à la base pour permettre aux joueurs de décider à quel moment ils vont affronter sans avoir à attendre des groupes qu'ils ont réussi à capturer. Vous pourrez ainsi plus facilement affronter des boss ou des groupes plus classiques avec vos amis, puisque seul le possesseur de la rune peut invoquer le groupe et choisir qui rejoindra le combat.
+
+Cette fonctionnalité subira encore quelques ajustements, nous tenons à ce qu'elle soit accessible et utilisée de manière courante par les joueurs.
+
+Système de transport dans les cités
+Un des défauts majeurs des cités de Bonta et de Brâkmar était leur taille imposante, qui rendait les déplacements entre les lieux importants beaucoup trop longs.
+
+Nous avons donc ajouté un système de déplacement interne, les "Zaapis".
+Les Zaapis, sont de petits tabis interactifs placés à côté de tous les bâtiments utiles des cités. Il vous suffit de cliquer dessus, et pour une poignée de kamas, vous pouvez vous téléporter immédiatement où vous voulez dans une citée.
+Ainsi, vous pouvez par exemple parcourir tous les hôtels de vente d'une citée, en passante par les ateliers, le zaap et la banque à la vitesse de l'éclair.
+C'est simple, efficace, et très rapide. A utiliser d'urgence.
+
+Modifications sur les percepteurs.
+Nos amis les percepteurs ont eux aussi subit quelques modifications.
+Vous pouvez en fin de combat voir ce que le percepteur a prélevé comme ressources.
+Vous êtes maintenant avertis lorsqu'un percepteur est posé et retirer et lorsqu'un membre de votre guilde retire des ressources d'un percepteur, grâce à un message envoyé dans le channel de discussion.
+
+Il y a désormais un intervalle de temps de 24 heures avant de pouvoir reposer un percepteur au même endroit s'il vient d'être vaincu.
+Si votre percepteur vient d'être vaincu, et que vous tuez celui qui vient d'être posé par une autre guilde, vous pouvez poser le vôtre sans attendre le délai de 24 heures.
+
+Il est possible de retirer un percepteur posé sans avoir à le combattre, mais attention, vous ne récupérez pas l'argent utilisé pour le poser.
+
+Interface générale
+En fin de combat, vous pouvez désormais voir apparaître ce que vous avez rapporté comme points d'expérience à votre guilde.
+
+La liste d'amis a été aggrandie, et l'alignement des amis est désormais visible grâce à une petite icône.
