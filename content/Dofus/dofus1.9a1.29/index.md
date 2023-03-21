@@ -28,7 +28,7 @@ Cette mise à jour est une mise à jour mineure, elle est sortie le 20 décembre
 
 Comme il s'agit d'une mise à jour mineure, il y a beaucoup de petits changement, le plus important étant qu'il semble qu'une partie d'astrub soit arrivée avec cette mise à jour, il m'est impossible de dire quelle zone.
 
-Cette mise à jour voit également l'apparition des noms de compte Ankama Games. Pour l'histoire, à la base le compte est un compte lié à dofus mais avec le temps une fusion entre les comptes ankama et les comptes dofus à eu lieu. A partir de cette version, chaque compte dofus doit avoir un nom de compte (pour la connexion) et un pseudo (qui sert dans la liste d'amis). Plus d'informations [ici](https://www.dofus.com/fr/forum/1750-dofus/23015-compte-ankama-games)
+Cette mise à jour voit également l'apparition des noms de compte Ankama Games. Pour l'histoire, à la base le compte est un compte lié à dofus mais avec le temps une fusion entre les comptes ankama et les comptes dofus à eu lieu. A partir de cette version, chaque compte dofus doit avoir un nom de compte (pour la connexion) et un pseudo (qui sert dans la liste d'amis). Plus d'informations [ici](https://web.archive.org/web/20060302110148/http://forum.dofus.com/topic.php?id=23015)
 
 Il est également a noté que le fichier dofus.exe a été retiré dans cette version à cause d'un bug ([source](https://web.archive.org/web/20230306145335/https://forums.jeuxonline.info/sujet/644395/ou-trouver-le-version-1-11-win-98-me)).
 
@@ -38,6 +38,24 @@ Il est également a noté que le fichier dofus.exe a été retiré dans cette ve
 Cette mise à jour est sortie le 22/02/2006, elle ajoute l'ile de pandala et la classe Pandawa. Le changelog est disponible [ici](https://web.archive.org/web/20060228221418/http://communaute.dofus.com/infos/news.php?id=286). En plus de pandala, dans la lignée de ce qui a commencé à être fait dans les précédentes mise à jours il y la création de nouveaux donjons dans les zones bas niveau. L'équilibrage des classes de cette version est visible [ici](https://web.archive.org/web/20230306151830/https://forums.jeuxonline.info/sujet/643616-6/info-officielle-maj-du-22-02).  
 
 Cette mise à jour arrive encore avec un nouveau serveur francophone: Raval ([source](https://web.archive.org/web/20060313172653/http://communaute.dofus.com/infos/news.php?id=284#284))
+
+Un changelog sorti quasiment une semaine après la mise à jour 1.12 est disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/27073-liste-ajouts-extension-pandala), il y a beaucoup d'ajouts qui ne sont répertoriés nul part ailleurs.
+
+- Ajout des villages de conquete de pandala et modification de la conquête de territoire
+- Ajout de zaap dans les villages de conquetes
+- Ajout des boucliers
+- La carte s'affiche désormais sur toute l'interface (avec l'ajout de filtres pour les icones)
+- Modification profonde sur les donjons: plutot que de les instancier, il s'agit de cartes normales
+- Ajout des places marchandes
+- Ajout du système de capture d'ame avec les arènes
+- Ajout des zaapi
+- Retrait de la limitation de la liste d'amis a 30 personnes
+
+Une autre modification a lieu en prévision de l'ajout des montures, les skins des personnages sont modifiés, cette version met probablement fin à l'utilisation des éléments des versions beta des skins des personnages (artwork en majorité) ([source](https://www.dofus.com/fr/forum/1750-dofus/27067-changement-skins-personnages-maj)). Les bugs provoqués par ces modification seront corrigé après la version 1.13.0.
+
+Le 28/02/2006 une petite mise à jour à eu lieu, un changelog en anglais est disponible [ici](https://web.archive.org/web/20060331034415/http://forum.dofus.com/topic_en.php?id=12395).
+
+
 
 ## Dofus 1.13
 
@@ -50,8 +68,7 @@ Cette version est sortie le 14/03/2006, les changements sont disponible [ici](ht
 
 - Modifications sur les personnages, surtout en prévision de la sortie du système de monture.
 - Fin de sortie de l'extension de Pandala avec l'ajout de l'ile de Grobe, l'ajout de 3 donjons à Pandala, l'ajout de familiers et équipements liés à Pandala,...
-- Refonte du système d'oubli de sort, les potions ne sont plus craftées par les alchimistes, elle sont désormais disponible en vente en pnj du temple de la classe du personnage.
-- Ajout des villages de conquetes de Pandala (je ne peux pas confirmer pour les autres zones).
+- Refonte du système d'oubli de sort, les potions ne sont plus craftées par les alchimistes, elle sont désormais disponible en vente en pnj du temple de la classe du personnage..
 - Ajout de la barre de sort déplacable pour pouvoir jouer encore plus de sorts.
 - Un des changements les plus importants: Ajout de la possibilité de se connecter à Dofus via le port 443, il permet de jouer à Dofus sur les connexions qui possèdent des filtres.
 
@@ -59,7 +76,14 @@ Cette mise à jour est la première à bénéficier de Flash Player 8, le jeu re
 
 ### Dofus 1.13.1
 
-Cette version est sortie le 18/03/2006, elle contient essentiellement des corrections de bug. Le changelog est dipsonible [ici](https://web.archive.org/web/20061117003127/http://dofus.jeuxonline.info:80/actualites/10271.html).
+Cette version est sortie le 18/03/2006, elle contient essentiellement des corrections de bug. Le changelog est disponible [ici](https://web.archive.org/web/20061117003127/http://dofus.jeuxonline.info:80/actualites/10271.html).
+
+Dans ces versions, le seul moyen de récupérer des points de vie était de s'asseoir ([source](https://web.archive.org/web/20230321192917/https://forums.jeuxonline.info/sujet/651858/bug-simpa-je-recupere-des-pv-debout)).
+
+Cette version est la dernière à avoir Tainéla localiser à Amakna, à partir de la version 1.13.2, Tainéla est déplacée au nord d'astrub. 
+
+
+
 
 ### Dofus 1.13.2
 
@@ -73,6 +97,7 @@ Coté interface, l'inventaire est revu pour avoir des filtres pour afficher seul
 - L'ajout du système de cadeaux
 - D'avoir plus de 5 personnages (l'interface de dofus 1.9 à 1.13.1 limite le nombre de personnage à 5)
 - Ajout des news et des cadeaux d'abonnement directement dans l'interface de connexion au jeu
+
 
 Le 26/04/2006, sortie d'un nouveau serveur francophone: Hécate ([lien](https://web.archive.org/web/20061127102915/http://www.dofus.com:80/community/infos/news.php?id=340))
 
