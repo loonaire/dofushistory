@@ -14,4 +14,4 @@ Je recherche actuellement:
 - Les versions du jeu de Dofus 1.10 à Dofus 1.12 ainsi que 1.13.1 et 1.13.2
 - Les versions du jeu 1.14 ainsi que 1.15 avec le dossier data le plus complet possible (fichiers de carte ainsi que les fichiers lang)
 
-Vous pouvez me contacter via twitter @loonaire
+Vous pouvez me contacter via twitter **@loonaire** ou via discord **loonaire#3167**

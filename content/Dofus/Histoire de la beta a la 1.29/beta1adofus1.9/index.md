@@ -262,9 +262,11 @@ Avant de revenir à Dofus, il est évoqué [le 21 juillet 2004](https://web.arch
 
 ### Dofus v17b
 
+Après d'autres recherche, il est possible qu'une version v17b soit sortie avant la v17.1b (qui serait sortie le lendemain), cependant je ne peux malheureusement pas le confirmer.
+
 #### Dofus v17.1b
 
-Officiellement la dernière version beta, la version v17.1b est sortie le 30 juillet 2004, la news du passage à cette version est disponible [ici](https://web.archive.org/web/20040823072733/http://www.dofus.com:80/?page=informations&rubrique=news&contenu=news_display&idnews=106).Cette mise à jour ajoute les dofus et divers équilibrages. Sur les éléments non documentés, cette mise à jour ajoute des monstres ainsi que des nouvelles cartes, une partie du sud d'amakna est ajoutée (porcos, géles, scarafeuilles), la maison arbre est déplacée, l'ile du cimetière d'amakna est arrivée et pour le reste des nouvelles cartes je ne sais pas exactement. Sur le drop des dofus, j'ai comme information que le minotoror dropais le dofus pourpre et avais un temps de réapparition qui était plutot long, il apparaissait dans les champs d'amakna et dans les plaines des scarafeuilles. Un autre ajout est les runes de téléportations, elles permettaient de se déplacer partout, je n'ai pas plus d'information sur ces rune mais le système était bien plus souple que celui des zaaps.
+Officiellement la dernière version beta, la version v17.1b est sortie le 30 juillet 2004, la news du passage à cette version est disponible [ici](https://web.archive.org/web/20040823072733/http://www.dofus.com:80/?page=informations&rubrique=news&contenu=news_display&idnews=106). Cette mise à jour ajoute les dofus et divers équilibrages. Sur les éléments non documentés, cette mise à jour ajoute des monstres ainsi que des nouvelles cartes, une partie du sud d'amakna est ajoutée (porcos, géles, scarafeuilles), la maison arbre est déplacée, l'ile du cimetière d'amakna est arrivée et pour le reste des nouvelles cartes je ne sais pas exactement. Il y a également l'ajout des dofus obtenu via le drop, j'ai comme information que le minotoror dropais le dofus pourpre et avais un temps de réapparition qui était plutot long, il apparaissait dans les champs d'amakna et dans les plaines des scarafeuilles. Un autre ajout est les runes de téléportations, elles permettaient de se déplacer partout, je n'ai pas plus d'information sur ces rune mais le système était bien plus souple que celui des zaaps.  
 
 #### Dofus v17.2b
 
@@ -314,9 +316,11 @@ Dans une news du 22 septembre 2004 il est question de modifications sur les skin
 Avant la sortie de la version 1.2, [une liste des prochaines évolutions] (https://web.archive.org/web/20041011023622/http://www.dofus.com/index.php?page=news&rubrique=evolutions&contenu=evolutions) est publiée, elle évoque la version 1.1 (je reviens à son contenu plus tard) avec sa date de sortie (le 11 octobre 2004). La sortie de la version 1.3 est annoncée au 15 novembre avec l'ile de moon. La news évoque les nouveaux skins des personnages et la nouvelle classe qui arriveront plus tard que prévu. La fin de la mise à jour parle également de la possibilité de jouer à dofus derrière un pare feu ou un proxy, de la sortie du chateau d'amakna (version 1.14) et des montures et de l'élevage (version 1.15).
 
 
-### Dofus 1.1 et Dofus v1.2
+### Dofus 1.1 
 
 La sortie de cette version a eu lieu le 11 octobre 2004, la news de la sortie est disponible [ici](https://web.archive.org/web/20041026161611/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=142). Le changelog de la mise à jour est disponible [ici](https://web.archive.org/web/20041028220648/http://www.dofus.com/?page=news&rubrique=v1.1&contenu=v1.1) et la news du changelog [ici](https://web.archive.org/web/20041026160759/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=141). La mise à jour 1.1 ajoute l'ile des wabbits, le métier de tailleur et de forgeur de haches ainsi que l'updater en plus de l'habituel équilibrage. Le changelog rappel également qu'à l'époque, les aggressions faisaient perdre les équipements des perdant. L'updater arrive pour la première fois avec cette version, il permettais de mettre automatiquement le jeu à jour.
+
+# Dofus 1.2
 
 Le 18 octobre 2004, lors [d'un reboot du serveur](https://web.archive.org/web/20041027174351/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=143) [la mise à jour 1.2 est déployé](https://web.archive.org/web/20041112070926/http://www.dofus.com/?page=news&rubrique=v1.2.1&contenu=v1.2.1), elle apporte la nouvelle apparence des personnages ainsi que des correctifs, le 29 octobre 2004 [la mise à jour 1.2.1 est déployé](https://web.archive.org/web/20041103233231/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=148) et corrige les problèmes de la version 1.2.
 
@@ -376,17 +380,16 @@ Il y a surement d'autres choses à dire mais actuellement je n'ai rien d'autre, 
 
 ## 5. La sortie internationnale
 
-### Dofus 1.7 et 1.8
 
 On entre dans une période de flou, aucune version n'est indiquée dans les notes de modifications, il s'agit d'une période de correction de problème et de petites modifications, ca va durer jusqu'à la 1.9.0 qui est sortie le 1er septembre 2005. 
 
-#### Dofus 1.7
+### Dofus 1.7
 
 Cette mise à jour semble être sortie le 28 juin 2005, un changelog est disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/15913-mise-jour-28-06-05), sa news d'annonce est diponible [ici](https://www.dofus.com/fr/forum/1750-dofus/15057-maj-28-juin), un premier patch correctif est disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/16069-petits-bugs-version-28) et enfin un autre correctif est disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/16069-petits-bugs-version-28). Dans les changements majeurs, on trouve l'ajout du village brigandin (et donc des transporteurs brigandin un peu partout), la caractéristique chance qui au passage est dissociée de la prospection (même si la chance continue de donner de la prospection) et enfin il y a le début du niveau 6 des sorts (chantier qui sera terminé avec la version 1.21).  
 
 Il est question [ici](https://forums.jeuxonline.info/sujet/550404/version-1-8-0) d'une version 1.7.1 mais il n'y a aucune information sur sa sortie.
 
-#### Dofus 1.8 et beta du serveur anglais
+### Dofus 1.8 et beta du serveur anglais
 
 Cette mise à jour est sortie le 20 juillet 2005, le changelog peux être consulté [ici](https://www.dofus.com/fr/forum/1750-dofus/17140-petites-modifications-venir), pour les joueurs, elle n'ajoute rien. En revanche pour les développeurs, elle semble changer beaucoup de chose. En même temps que cette mise à jour sont sortie une nouvelle version du site (pour la version anglaise) ainsi que la partie communauté du forum.  
 
