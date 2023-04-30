@@ -49,7 +49,6 @@ Si vous avez des informations manquante à me transmette, ça m'intéresse! :)
 | 1.4 | 15 décembre 2004 | [Changelog](https://web.archive.org/web/20050126134629/http://www.dofus.com/?page=news&rubrique=news&contenu=news_display&idnews=156) | [Copie du changelog](changelog1_4/#Dofus-1.4.0) | [Second changelog](https://web.archive.org/web/20041221193242/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=158), Sortie officelle des sacrieurs, ajout des émotes, du mariage et de sufokia |
 | 1.4.1 | 17 décembre 2004 | [Changelog](https://web.archive.org/web/20041223175823/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=160) | [Copie du changelog](changelog1_4/#Dofus-1.4.1) | Passage aux dégats feu pour les sorts commun, fin des dégats physique/magique (?) |
 | 1.4.2 | 20 décembre 2004 | [Changelog](https://web.archive.org/web/20050126004915/http://www.dofus.com/?page=news&rubrique=v1.4.2&contenu=v1.4.2) | [Copie du changelog](changelog1_4/#Dofus-1.4.2) | Corrections de bug |
-
 | 1.5 | - | - | - | - |
 | 1.6 | - | - | - | - |
 | 1.7 | - | - | - | - |
