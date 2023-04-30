@@ -42,3 +42,26 @@ Cette nouvelle mouture sera **disponible ce jour, en milieu d’après-midi**. E
 
 ## Dofus 1.3.1
 
+Détails de la mise à jour du 30/11/2004 (version 1.3.1)
+
+**Nouveautés**
+
+*   **Une nouvelle zone a été créée pour l'arrivée des personnages**  
+    Afin d'aider les joueurs novices, nous avons intégré un "parcours initiatique" lors de l'arrivée des personnages. Cela leur permettra, nous l'espérons, de mieux prendre en main leur personnage et de comprendre les buts de Dofus.
+
+*   **Intégration de la guilde des Sacrieurs** (non encore disponible)  
+    Cette nouvelle guilde sera accessible à partir du 15/12/2004. Nous procédons actuellement à des tests afin de valider un certain nombre d'éléments comme les effets de sorts et l'équilibrage vis-à-vis des autres guildes. Nous vérifions également les animations des sorts et l'enchaînement de ceux-ci en ligne.
+
+**Améliorations**
+
+*   **Sorts**  
+    \- Remise de la portée au lvl 5 du sort "Boite de pandore" des enutrofs  
+    \- Coquilles explosives (ralentissement)  
+    \- Pré-requis du marteau Sargasse modifié
+
+*   **Objets**  
+    \- Affichage des capes  
+    \- Affichage des outils  
+    \- Affichage de la Lame d'Ogralimde
+
+Cette nouvelle mouture sera **disponible ce jour, en milieu d’après-midi**. Elle nécessite une **mise à jour de Dofus**. Celle-ci sera **automatique pour les joueurs ayant opté pour la version avec Updater**. Les autres pourront trouver la nouvelle version à cette adresse : [**http://telechargement.dofus.com**](https://web.archive.org/web/20041208173514/http://telechargement.dofus.com/) .

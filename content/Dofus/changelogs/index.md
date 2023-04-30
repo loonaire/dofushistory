@@ -40,12 +40,16 @@ Si vous avez des informations manquante à me transmette, ça m'intéresse! :)
 
 | Version | Date de sortie | Source du changelog | Copie du changelog | Commentaire |
 | - | - | - | - | - |
-| 1.0 | 23 aout 2004 | [Changelog](https://web.archive.org/web/20040921070937/http://www.dofus.com/?page=news&rubrique=v1.0&contenu=v1.0)| [Copie du changelog](changelog1.0)| Première version du jeu qui n'est pas une beta, sortie française officielle |
-| 1.1 |20 septembre 2004 | [Changelog](https://web.archive.org/web/20041028220648/http://www.dofus.com/?page=news&rubrique=v1.1&contenu=v1.1) | [Copie du changelog](changelog1.1) | Ajout de l'ile des wabbits |
-| 1.2 | 11 octobre 2004 | [Changelog](https://web.archive.org/web/20041112070926/http://www.dofus.com/?page=news&rubrique=v1.2.1&contenu=v1.2.1) | [Copie du changelog](changelog1.2#Dofus-1.2) | Modification de l'apparence des personnages |
-| 1.2.1 | 18 octobre 2004 | [Changelog](https://web.archive.org/web/20041103233231/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=148) | [Copie du changelog](/changelogs/changelog1.2/) | Corrections de bug |
-| 1.3 | 15 novembre 2004 | [Changelog](https://web.archive.org/web/20041116110846/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=152) | [Copie du changelog](changelog1.3) | Ile de moon |
-| 1.4 | - | - | - | - |
+| 1.0 | 23 aout 2004 | [Changelog](https://web.archive.org/web/20040921070937/http://www.dofus.com/?page=news&rubrique=v1.0&contenu=v1.0)| [Copie du changelog](changelogsv1/changelog1_0)| Première version du jeu qui n'est pas une beta, sortie française officielle |
+| 1.1 |20 septembre 2004 | [Changelog](https://web.archive.org/web/20041028220648/http://www.dofus.com/?page=news&rubrique=v1.1&contenu=v1.1) | [Copie du changelog](changelogsv1/changelog1_1) | Ajout de l'ile des wabbits |
+| 1.2 | 11 octobre 2004 | [Changelog](https://web.archive.org/web/20041112070926/http://www.dofus.com/?page=news&rubrique=v1.2.1&contenu=v1.2.1) | [Copie du changelog](changelogsv1/changelog1_2/#Dofus-1_2) | Modification de l'apparence des personnages |
+| 1.2.1 | 18 octobre 2004 | [Changelog](https://web.archive.org/web/20041103233231/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=148) | [Copie du changelog](changelog1_2/#Dofus-1.2.1) | Corrections de bug |
+| 1.3 | 15 novembre 2004 | [Changelog](https://web.archive.org/web/20041116110846/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=152) | [Copie du changelog](changelog1_3/#Dofus-1.3) | Ile de moon |
+| 1.3.1 |23 novembre 2004 | [Changelog](https://web.archive.org/web/20041208173514/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=155) |[Copie du changelog](changelog1_3/#Dofus-1.3.1) | Ajout de Tainéla et version beta des sacrieurs
+| 1.4 | 15 décembre 2004 | [Changelog](https://web.archive.org/web/20050126134629/http://www.dofus.com/?page=news&rubrique=news&contenu=news_display&idnews=156) | [Copie du changelog](changelog1_4/#Dofus-1.4.0) | [Second changelog](https://web.archive.org/web/20041221193242/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=158), Sortie officelle des sacrieurs, ajout des émotes, du mariage et de sufokia |
+| 1.4.1 | 17 décembre 2004 | [Changelog](https://web.archive.org/web/20041223175823/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=160) | [Copie du changelog](changelog1_4/#Dofus-1.4.1) | Passage aux dégats feu pour les sorts commun, fin des dégats physique/magique (?) |
+| 1.4.2 | 20 décembre 2004 | [Changelog](https://web.archive.org/web/20050126004915/http://www.dofus.com/?page=news&rubrique=v1.4.2&contenu=v1.4.2) | [Copie du changelog](changelog1_4/#Dofus-1.4.2) | Corrections de bug |
+
 | 1.5 | - | - | - | - |
 | 1.6 | - | - | - | - |
 | 1.7 | - | - | - | - |
