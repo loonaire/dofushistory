@@ -1,5 +1,5 @@
 ---
-title: "Changelogs"
+title: "Changelogs Dofus beta à Dofus Rétro"
 date: 2023-04-30T16:03:00+02:00
 draft: false
 ---
@@ -7,13 +7,15 @@ draft: false
 Ce post recense les différents changelogs des versions beta aux versions de Dofus Rétro.
 Si vous avez des informations manquante à me transmette, ça m'intéresse! :)
 
+> /!\ Cet article va être très long à rédiger, je vais le faire en plusieurs fois, c'est pour ca que le tableau n'est pour le moment pas complet :)
+
 
 ## Versions beta:
 
 | Version | Date de sortie | Source du changelog | Copie du changelog | Commentaire |
 | - | - | - | - | - |
 | v1b | 15 octobre 2003 | Indisponible | - | Première version du jeu en beta fermée |
-| v2b | 28 octobre 2003 | [Changelog](https://web.archive.org/web/20070118155852/http://www.ankama-studio.com/forumdofus/topic_view.asp?tid=768) | [Copie du changelog](changelogsbeta#v2b) | Correctifs et ajout de contenu |
+| v2b | 28 octobre 2003 | [Changelog](https://web.archive.org/web/20070118155852/http://www.ankama-studio.com/forumdofus/topic_view.asp?tid=768) | [Copie du changelog](changelogsbeta/#v2b) | Correctifs et ajout de contenu |
 | v3b | Inconnue | Indisponible | - | Aucune information sur cette version |
 | v4b | 22 décembre 2003 | Indisponible | - | Sert de base au client v5b|
 | v5b | 13 janvier 2004 | Indisponible | - | - |
