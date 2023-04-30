@@ -3,7 +3,7 @@ canonifyURLs = true
 relativeURLs = true
 
 languageCode = "fr-fr"
-title = "Dofus 1 History"
+title = "Dofus History"
 theme = "hugo-theme-relearn"
 copyright = "Contenu géré par Loonaire, certaines images utilisées sont la propriété d'Ankama Games"
 
