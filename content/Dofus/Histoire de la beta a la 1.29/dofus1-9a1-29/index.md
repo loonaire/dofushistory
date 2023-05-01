@@ -24,7 +24,7 @@ Cette mise à jour voit également la création du second serveur de jeu francop
 Cette mise à jour est une mise à jour mineure, elle est sortie le 20 décembre 2005 pour noel. Plusieurs changelogs sont disponibles.  
 [Le changelog officiel sur le site d'ankama](https://web.archive.org/web/20060131001108/http://www.ankama-games.com/news.php)  
 [Le changelog officiel sur jol](https://web.archive.org/web/20230306132942/https://dofus.jeuxonline.info/actualite/9433/dofus-1110-disponible)  
-[L'annonce sur le forum officiel](https://www.dofus.com/fr/forum/1750-dofus/23337-mise-jour-noel)
+[L'annonce sur le forum officiel](https://web.archive.org/web/20060302110240/http://forum.dofus.com/topic.php?id=23337)
 
 Comme il s'agit d'une mise à jour mineure, il y a beaucoup de petits changement, le plus important étant qu'il semble qu'une partie d'astrub soit arrivée avec cette mise à jour, il m'est impossible de dire quelle zone.
 

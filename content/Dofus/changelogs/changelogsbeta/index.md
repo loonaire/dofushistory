@@ -84,6 +84,17 @@ Corrections des Bugs suivants :
 - Problèmes des PDV
 - Décalages dans les animations des sorts 
 
+## v9.1b
+
+### Petites améliorations de la version 9b qui devient 9.1b
+
+Vous avez été nombreux à vous plaindre de ralentissements. Notamment, après plusieurs combats, où cela "ramait sec" sur vos machines. Nous avons trouvé le coupable et nous l'avons neutralisé à coup de tatanes.
+
+Donc, nous vous conseillons vivement de passer à cette version 9.1b qui diminue la consommation de votre CPU (il en sera super content).  
+**Cette mise à jour est vivement conseillée, mais pas obligatoire**… sauf si vous aimez l'aviron ;).
+
+Nous en avons également profité pour faire quelques modifs graphiques, notamment sur les boutons de gestion des amis.
+
 ## v10b
 
 - Les interfaces de magasin
@@ -216,7 +227,7 @@ Inconnu
 
 Inconnu
 
-## v17.2b  
+## v17.2b
 
 Liste des principales corrections apportés par la v17.2b:
 

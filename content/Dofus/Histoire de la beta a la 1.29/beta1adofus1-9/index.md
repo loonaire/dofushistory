@@ -348,7 +348,7 @@ Les correctifs version [1.4.1](https://web.archive.org/web/20041223175823/http:/
 
 ### Dofus 1.5
 
-Cette mise à jour est sortie le 8 février 2005, les changelog est disponible [ici](https://web.archive.org/web/20050228173433/http://www.dofus.com/index.php?page=news&rubrique=v1.5.0&contenu=v1.5.0) et il est compliqué de suivre correctement les modifications, le forum est modifié et à l'époque les posts des développeurs étaient crées parfois pour des changelog complet et parfois pour un simple petit message. Cette mise à jour aura 2 mises à jour mineure: [la version 1.5.1](https://web.archive.org/web/20050325035159/http://www.dofus.com/index.php?page=news&rubrique=v1.5.1&contenu=v1.5.1) qui apporte des changements importants et [la 1.5.2](https://web.archive.org/web/20050310081157/http://www.dofus.com/?page=news&rubrique=v1.5.2&contenu=v1.5.2) qui corrige des problèmes.
+Cette mise à jour est sortie le 8 février 2005, le changelog est disponible [ici](https://web.archive.org/web/20050228173433/http://www.dofus.com/index.php?page=news&rubrique=v1.5.0&contenu=v1.5.0) et il est compliqué de suivre correctement les modifications, le forum est modifié et à l'époque les posts des développeurs étaient crées parfois pour des changelog complet et parfois pour un simple petit message. Cette mise à jour aura 2 mises à jour mineure: [la version 1.5.1](https://web.archive.org/web/20050325035159/http://www.dofus.com/index.php?page=news&rubrique=v1.5.1&contenu=v1.5.1) le 1er mars 2005 qui apporte des changements importants comme le système de phénix et [la 1.5.2](https://web.archive.org/web/20050310081157/http://www.dofus.com/?page=news&rubrique=v1.5.2&contenu=v1.5.2) le 2 mars 2005 qui corrige des problèmes.
 
 La version 1.5.0 apporte l'ajout des guildes, les classes ne sont donc plus appelées guildes. Les guildes ne seront que très peu modifiées sur la version 1 de Dofus. Ensuite, le livre de l'interface ne sert plus pour l'ouverture de la carte, le livre est donc remplacé par l'icone de la géoposition (qui étais présent lors des betas mais retiré), on peux donc voir la carte du jeu de manière simple. Les livres sont désormais des éléments à part entière du gameplay et ils prmettent d'avoir les informations que le carnet de bord devais donner.  
 Dans les améliorations ont retrouve une nouvelle région: Tainéla semble avoir été ajoutée avec cette version, d'autres version semblent avoir été ajoutées mais je ne sais pas lesquelles. La manière de déplacement est également modifiée: les runes de téléporations sont remplacées par des zaap qui sont fixes. Enfin, cette version vois apparaitre la forgemagie.  
@@ -361,8 +361,9 @@ Il semble que cette version corresponde à la recompilation de beaucoup de fichi
 
 ### Dofus 1.6
 
-Pour cette version, il est compliqué d'avoir une liste des changements réelle et complète. Elle est sortie le 19 avril 2005. Officiellement le changelog est [ici](https://web.archive.org/web/20050420234353/http://www.dofus.com/?page=news&rubrique=v1.6.0&contenu=v1.6.0) mais d'autres détails sont disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/11053-fraiches-news-cheres), [ici](https://www.dofus.com/fr/forum/1750-dofus/11894-incroyable-maj-19-reserve), [ici](https://www.dofus.com/fr/forum/1750-dofus/12433-nouveautes-client-v1-6) et [ici](https://www.dofus.com/fr/forum/1750-dofus/12404-maj-jour-19-04-2005-point).  
-Une liste des changements de la version 1.6.3 est disponible [ici](https://web.archive.org/web/20061116032938/http://dofus.jeuxonline.info/index.php?page=archives&mois=6&annee=2005).  
+Pour cette version, il est compliqué d'avoir une liste des changements réelle et complète. Elle est sortie le 19 avril 2005. Officiellement le changelog est [ici](https://web.archive.org/web/20050420234353/http://www.dofus.com/?page=news&rubrique=v1.6.0&contenu=v1.6.0) mais d'autres détails sont disponible [ici](https://web.archive.org/web/20051026094034/http://forum.dofus.com/topic.php?id=11053), [ici](https://web.archive.org/web/20051027025114/http://forum.dofus.com/topic.php?id=11894), [ici](https://web.archive.org/web/20051026094015/http://forum.dofus.com/topic.php?id=12433), [ici](https://web.archive.org/web/20051027143104/http://forum.dofus.com/topic.php?id=12404) et le 21 avril un patch est déployé, [source](https://web.archive.org/web/20051026140809/http://forum.dofus.com/topic.php?id=12669). La mise à jour 1.6.1 est sortie le 26 avril 2005 pour corriger certains problèmes ([source](https://web.archive.org/web/20061116033119/http://dofus.jeuxonline.info/index.php?page=archives&mois=4&annee=2005)).  
+
+Une liste des changements de la version 1.6.3 est disponible [ici](https://web.archive.org/web/20061116032938/http://dofus.jeuxonline.info/index.php?page=archives&mois=6&annee=2005), elle est sortie le 2 juin 2005.  
 
 Cette mise à jour ajoute beaucoup de contenu:
 - La carte du monde fait x3 (d'après Tot), il est annoncé 2000 nouvelles carte (brakmar, sidimote, cania, bonta). Un nouveau système d'alignement avec Bonta et Brakmar qui remplace le système ange/démon. Les zones enclos de bonta et brakmar ne sont pas encore disponible, les cités sont plus petites que ce quelles deviendront.
@@ -373,9 +374,12 @@ Cette mise à jour ajoute beaucoup de contenu:
 - Le médaillon peux servir à autre chose qu'afficher le portrait du personnage.
 - Le chat reçoit également des nouvelles commandes.
 
-Sur cette version il semble que le fonctionnement du lancement du jeu est toujours le même: il faut passer par un navigateur ou par le fichier lancement.html, [ce sujet sur jol](https://forums.jeuxonline.info/sujet/507661/probleme-arret-du-lancement-de-dofus-a-cors-swf) évoque encore l'utilisation du fichier dofus.swf, l'executable n'était toujours pas disponible.
+La version 1.6.1 viens corriger les bugs de la version 1.6.0, d'après [ce lien](https://web.archive.org/web/20061116032806/http://dofus.jeuxonline.info/index.php?page=archives&mois=5&annee=2005), je suppose que la version 1.6.2 est sortie le 3 mai 2005, elle vient corriger des bugs et ajouter un peu de contenu (surtout est batiments à Brakmar).
+Pour la version 1.6.3, elle semble ajouter plus de choses, il est possible que cette mise à jour 1.6 soit sortie en plusieurs parties car le changelog de la 1.6.3 évoque l'ajout de quetes d'alignement, de cartes et de monstres.
 
-Il y a surement d'autres choses à dire mais actuellement je n'ai rien d'autre, donc la suite dès maintenant.
+Sur cette version il semble que le fonctionnement du lancement du jeu est toujours le même: il faut passer par un navigateur ou par le fichier lancement.html, [ce sujet sur jol](https://web.archive.org/web/20230501111511/https://forums.jeuxonline.info/sujet/507661/probleme-arret-du-lancement-de-dofus-a-cors-swf) évoque encore l'utilisation du fichier dofus.swf, l'executable n'était toujours pas disponible.
+
+Il y a surement d'autres choses à dire mais actuellement je n'ai rien trouvé d'autre pour le moment.
 
 
 ## 5. La sortie internationnale
@@ -385,19 +389,22 @@ On entre dans une période de flou, aucune version n'est indiquée dans les note
 
 ### Dofus 1.7
 
-Cette mise à jour semble être sortie le 28 juin 2005, un changelog est disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/15913-mise-jour-28-06-05), sa news d'annonce est diponible [ici](https://www.dofus.com/fr/forum/1750-dofus/15057-maj-28-juin), un premier patch correctif est disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/16069-petits-bugs-version-28) et enfin un autre correctif est disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/16069-petits-bugs-version-28). Dans les changements majeurs, on trouve l'ajout du village brigandin (et donc des transporteurs brigandin un peu partout), la caractéristique chance qui au passage est dissociée de la prospection (même si la chance continue de donner de la prospection) et enfin il y a le début du niveau 6 des sorts (chantier qui sera terminé avec la version 1.21).  
+Cette mise à jour semble être sortie le 28 juin 2005, un changelog est disponible [ici](https://web.archive.org/web/20051022111048/http://forum.dofus.com/topic.php?id=15913), sa news d'annonce est diponible [ici](https://web.archive.org/web/20051022111014/http://forum.dofus.com/topic.php?id=15057), un premier patch correctif est disponible [ici](https://web.archive.org/web/20051022111152/http://forum.dofus.com/topic.php?id=16069) et un autre correctif est disponible [ici](https://web.archive.org/web/20051022230907/http://forum.dofus.com/topic.php?id=16145). Encore un autre patch est disponible [ici](https://web.archive.org/web/20051022111140/http://forum.dofus.com/topic.php?id=16199) et un correctif d'une arme est [ici](https://web.archive.org/web/20051022111202/http://forum.dofus.com/topic.php?id=16434), beaucoup d'autres patch sont sortie pour cette mise à jour, il s'agit généralement de petits patch.
 
-Il est question [ici](https://forums.jeuxonline.info/sujet/550404/version-1-8-0) d'une version 1.7.1 mais il n'y a aucune information sur sa sortie.
+Dans les changements majeurs, on trouve l'ajout du village brigandin (et donc des transporteurs brigandin un peu partout), la caractéristique chance qui au passage est dissociée de la prospection (même si la chance continue de donner de la prospection) et enfin il y a le début du niveau 6 des sorts (chantier qui sera terminé avec la version 1.21).  
+
+Il est question [ici](https://web.archive.org/web/20230501112724/https://forums.jeuxonline.info/sujet/550404/version-1-8-0) d'une version 1.7.1 mais il n'y a aucune information sur sa sortie.
 
 ### Dofus 1.8 et beta du serveur anglais
 
-Cette mise à jour est sortie le 20 juillet 2005, le changelog peux être consulté [ici](https://www.dofus.com/fr/forum/1750-dofus/17140-petites-modifications-venir), pour les joueurs, elle n'ajoute rien. En revanche pour les développeurs, elle semble changer beaucoup de chose. En même temps que cette mise à jour sont sortie une nouvelle version du site (pour la version anglaise) ainsi que la partie communauté du forum.  
+Cette mise à jour est sortie le 20 juillet 2005, le changelog peux être consulté [ici](https://web.archive.org/web/20051028174559/http://forum.dofus.com/topic.php?id=17140), pour les joueurs, elle n'ajoute rien. Mais pour les développeurs elle change beaucoup de choses, le client est modifié pour pouvoir être utilisé avec plusieurs langues. En même temps que la sortie de cette mise à jour, une nouvelle version du site est sortie (pour la version anglaise) ainsi que la partie communauté du forum est ajoutée. 
+Le 16 aout 2005 un reboot avec des modifications a eu lieu ([source](https://web.archive.org/web/20061117004523/http://dofus.jeuxonline.info/actualites/8250.html)). 
 
- Cette version est une beta, elle sert à corriger les bug pour la version anglaise et repartir sur une bonne base pour la suite. Le client de la version anglaise semble être un client spécifique à cette version.
+ Cette version se raproche d'une beta, elle sert à corriger les bug pour la version anglaise et repartir sur une bonne base pour la suite. Le client de la première version anglaise semble être un client spécifique indépendant de la "vraie" version 1.8 du jeu.
 
 ### Dofus 1.9
 
-LA version, pour moi il s'agit de la vraie version 1.0 du jeu, elle est sortie le 1er septembre 2005 (1 an après la sortie officielle du jeu), elle intègre des petits correctifs mais surtout elle pose les bases des prochains clients du jeu. Le lendemain, le 2 septembre 2005, le patch 1.9.1 a été déployé. Le changelog officiel est disponible [ici](https://web.archive.org/web/20051012094317/http://communaute.dofus.com/infos/versions.php) et sa version plus complète sur le forum est disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/18637-modifications-quot-reboot-quot-01-09-05).  
+LA version, pour moi il s'agit de la vraie version 1.0 du jeu, elle est sortie le 1er septembre 2005 (1 an après la sortie officielle du jeu), elle intègre des petits correctifs mais surtout elle pose les bases des prochains clients du jeu. Le lendemain, le 2 septembre 2005, le patch 1.9.1 a été déployé. Le changelog officiel est disponible [ici](https://web.archive.org/web/20051012094317/http://communaute.dofus.com/infos/versions.php) et sa version plus complète sur le forum est disponible [ici](https://web.archive.org/web/20060327122608/http://forum.dofus.com/topic.php?id=18637). La note du patch 1.9.1 est disponible [ici](https://web.archive.org/web/20060302110124/http://forum.dofus.com/topic.php?id=18854), ce patch est sorti le 2 septembre 2005 et il est sorti pour corriger un bug qui jetais au sol un équipement au lieu de l'équiper sur le personnage.
 
 La vitesse des animations en combat du jeu est augmentée par 1.5, les combats de dofus 1.29 étais déja lent mais ca ne devais pas être mieux avant la version 1.9.    
 
@@ -408,7 +415,7 @@ Sur les modifications du client, il y a beaucoup à dire:
 
 Un nouveau serveur est sorti, il s'agit du serveur Rushu qui est le premier serveur international.  
 
-Les serveurs ont également été modifiés, physiquement, un serveur est dédiée aux bases de données et les serveur de jeux ont désormais 1 serveur physique/serveur ainsi si un serveur s'arrête il est toujours possible d'accéder aux autres. Cette modification fait de la version 1.9 une version "1.0" n°2.  
+Les serveurs ont également été modifiés physiquement, un serveur est dédiée aux bases de données et les serveur de jeux ont désormais 1 serveur physique/serveur ainsi si un serveur s'arrête il est toujours possible d'accéder aux autres. Cette modification fait de la version 1.9 une version "1.0" n°2.  
 
 ## 6. Conclusion
 

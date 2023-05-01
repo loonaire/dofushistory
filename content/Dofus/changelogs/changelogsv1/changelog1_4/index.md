@@ -34,22 +34,22 @@ Pour cette version de fin d'année, nous avons voulu répondre à vos différent
 *   **Interface**  
     À tous les niveaux, l'interface a été améliorée afin de faciliter la prise en main du jeu et vous donner un maximum d'informations utiles.  
       
-    **Création de personnages  
-    **La création de personnages est plus facile que jamais.  
-    **Options  
-    **Dans ce menu, vous retrouvez la grille de combats, la fonction "alpha", les infos sur les cartes.  
-    **Sorts  
-    **Un nombre de PA insuffisant, des sorts qui ne peuvent être relancés avant plusieurs tours ou jusqu'à la fin d'un combat, d'un simple coup d'oeil vous pouvez désormais savoir quel sort vous pouvez utiliser.  
-    **Métiers  
-    **Vous disposerez d'informations supplémentaires pour vous aider dans vos choix.  
-    **Monstres  
-    **Plus d'informations sur leurs caractéristiques.  
+    **Création de personnages**  
+    La création de personnages est plus facile que jamais.  
+    **Options**  
+    Dans ce menu, vous retrouvez la grille de combats, la fonction "alpha", les infos sur les cartes.  
+    **Sorts**  
+    Un nombre de PA insuffisant, des sorts qui ne peuvent être relancés avant plusieurs tours ou jusqu'à la fin d'un combat, d'un simple coup d'oeil vous pouvez désormais savoir quel sort vous pouvez utiliser.  
+    **Métiers**  
+    Vous disposerez d'informations supplémentaires pour vous aider dans vos choix.  
+    **Monstres**  
+    Plus d'informations sur leurs caractéristiques.  
     
 *   **Quêtes**  
     Mise en place progressive d'un système de quêtes RP. A vous les chasses aux trésors et autres énigmes rôlistes ! Ce système s'appuie sur les nouveautés présentes et à venir.
   
-*   **Sorts  
-    **Amélioration visuelle des effets de sorts et valorisation des sorts peu joués.  
+*   **Sorts**  
+    Amélioration visuelle des effets de sorts et valorisation des sorts peu joués.  
     Gestion des dégâts élémentaires selon les classes.  
     
 *   **Monstres**  
@@ -76,14 +76,14 @@ Tout d'abord, comme nous avons pu l'annoncer sur le forum, **cette mise à jour 
 
 Enfin, vous pouvez découvrir ci-dessous d'autres nouveautés et améliorations qui viennent compléter l'impressionnante [**liste publiée le 09/12/2004**](/web/20041221193242/http://www.dofus.com/?page=news&rubrique=news&contenu=news_display&idnews=156).
 
-**L'Aura  
-**Les personnages de niveau 100 et supérieurs sont tellement talentueux que leur Aura est visible de tous. Il s'agit d'un halo au sol avec des éclairs (non visible en combat).
+**L'Aura**  
+Les personnages de niveau 100 et supérieurs sont tellement talentueux que leur Aura est visible de tous. Il s'agit d'un halo au sol avec des éclairs (non visible en combat).
 
-**Révision du gain d'XP contre les monstres  
-**Désormais, les victoires contre des monstres d'un plus haut niveau que le vôtre sont légèrement valorisées et vous rapportent plus de points qu'avant. Par contre, les victoires contre un monstre ou un groupe de monstres d'un plus bas niveau que le vôtre sont dévalorisées. L'objectif est de minimiser le « levelling » (100.000 combats victorieux contre 2 pauvres araignées niveau 1 ne feront plus de vous un cador), récompenser les victoires contre des monstres plus forts (un peu de justice dans ce monde de brutes) tout en maintenant le principe de base (privilégier les combats équilibrés).
+**Révision du gain d'XP contre les monstres**  
+Désormais, les victoires contre des monstres d'un plus haut niveau que le vôtre sont légèrement valorisées et vous rapportent plus de points qu'avant. Par contre, les victoires contre un monstre ou un groupe de monstres d'un plus bas niveau que le vôtre sont dévalorisées. L'objectif est de minimiser le « levelling » (100.000 combats victorieux contre 2 pauvres araignées niveau 1 ne feront plus de vous un cador), récompenser les victoires contre des monstres plus forts (un peu de justice dans ce monde de brutes) tout en maintenant le principe de base (privilégier les combats équilibrés).
 
-**Révision du calcul pour les réductions de dommages des sorts  
-**Cette modification concerne la classe Féca. Elle fait suite à la discussion entre Tot et plusieurs représentant de ces membres lors de l'introduction des dégâts élémentaires. Vous pouvez retrouver cette discussion [**sur le forum**](https://web.archive.org/web/20041221193242/http://forum.dofus.com/topic.php?id=3373&p=8).
+**Révision du calcul pour les réductions de dommages des sorts**  
+Cette modification concerne la classe Féca. Elle fait suite à la discussion entre Tot et plusieurs représentant de ces membres lors de l'introduction des dégâts élémentaires. Vous pouvez retrouver cette discussion [**sur le forum**](https://web.archive.org/web/20041221193242/http://forum.dofus.com/topic.php?id=3373&p=8).
 
 **Indication des sorts dont la portée est « boostable »**
 
