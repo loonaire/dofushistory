@@ -83,11 +83,9 @@ Dans ces versions, le seul moyen de récupérer des points de vie était de s'as
 Cette version est la dernière à avoir Tainéla localiser à Amakna, à partir de la version 1.13.2, Tainéla est déplacée au nord d'astrub. 
 
 
-
-
 ### Dofus 1.13.2
 
-Mise en ligne le 25/04/2006, les modifications sont disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/31332-version-1-13-2-maintenance) et sur jeux-online[ici](https://web.archive.org/web/20070915205150/http://dofus.jeuxonline.info/index.php?page=archives&mois=4&annee=2006), malgré le numéro de version, il s'agit d'une version importante, elle est liée à la version 1.14.
+Mise en ligne le 25/04/2006, les modifications sont disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/31332-version-1-13-2-maintenance) ([version archivée](https://web.archive.org/web/20230518080803/https://dofuswiki.fandom.com/de/wiki/Dofus_1.13.2)) et sur jeux-online[ici](https://web.archive.org/web/20070915205150/http://dofus.jeuxonline.info/index.php?page=archives&mois=4&annee=2006), malgré le numéro de version, il s'agit d'une version importante, elle est liée à la version 1.14.
 
 Pour commencer, il y a l'ajout des cadeaux d'abonnement, ce qui implique un changement de l'interface de jeu (j'y reviens plus tard). Il y a également la suite et fin de l'ajout de zones liées à Astrub, à ce moment il ne manque à ma connaissance que la zone des calanques d'astrub (qui arrive en 1.19), la zone de la foret des abraknyde est également agrandie (ajout de la zone de la foret des abraknydes sombres ainsi que quelques maps de la forêt des abraknydes). Il y a également l'ajout des fantomes de familiers, la simplification du divorce en allant à l'église, des modifications sur les IA ainsi que des changements sur les repop des monstres.
 
