@@ -39,7 +39,7 @@ Cette mise à jour est sortie le 22/02/2006, elle ajoute l'ile de pandala et la 
 
 Cette mise à jour arrive encore avec un nouveau serveur francophone: Raval ([source](https://web.archive.org/web/20060313172653/http://communaute.dofus.com/infos/news.php?id=284#284))
 
-Un changelog sorti quasiment une semaine après la mise à jour 1.12 est disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/27073-liste-ajouts-extension-pandala), il y a beaucoup d'ajouts qui ne sont répertoriés nul part ailleurs.
+Un changelog sorti quasiment une semaine après la mise à jour 1.12 est disponible [ici](https://web.archive.org/web/20230519092942/https://www.dofus.com/fr/forum/1750-dofus/27073-liste-ajouts-extension-pandala), il y a beaucoup d'ajouts qui ne sont répertoriés nul part ailleurs.
 
 - Ajout des villages de conquete de pandala et modification de la conquête de territoire
 - Ajout de zaap dans les villages de conquetes
@@ -51,7 +51,7 @@ Un changelog sorti quasiment une semaine après la mise à jour 1.12 est disponi
 - Ajout des zaapi
 - Retrait de la limitation de la liste d'amis a 30 personnes
 
-Une autre modification a lieu en prévision de l'ajout des montures, les skins des personnages sont modifiés, cette version met probablement fin à l'utilisation des éléments des versions beta des skins des personnages (artwork en majorité) ([source](https://www.dofus.com/fr/forum/1750-dofus/27067-changement-skins-personnages-maj)). Les bugs provoqués par ces modification seront corrigé après la version 1.13.0.
+Une autre modification a lieu en prévision de l'ajout des montures, les skins des personnages sont modifiés, cette version met probablement fin à l'utilisation des éléments des versions beta des skins des personnages (artwork en majorité) ([source](https://web.archive.org/web/20230519092827/https://www.dofus.com/fr/forum/1750-dofus/27067-changement-skins-personnages-maj)). Les bugs provoqués par ces modification seront corrigé après la version 1.13.0.
 
 Le 28/02/2006 une petite mise à jour à eu lieu, un changelog en anglais est disponible [ici](https://web.archive.org/web/20060331034415/http://forum.dofus.com/topic_en.php?id=12395).
 
@@ -64,7 +64,7 @@ Cette version est une version qui a connu 3 mises à jours mineures qui ont chan
 
 ### Dofus 1.13.0
 
-Cette version est sortie le 14/03/2006, les changements sont disponible [ici](https://web.archive.org/web/20060315055316/http://dofus.jeuxonline.info:80/actualites/10210.html), cette mise à jour ne possède pas de vrai changelog même si elle possède beaucoup de changements importants. Le vrai changelog est disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/28043-mise-jour-14-mars).
+Cette version est sortie le 14/03/2006, les changements sont disponible [ici](https://web.archive.org/web/20060315055316/http://dofus.jeuxonline.info:80/actualites/10210.html), cette mise à jour ne possède pas de vrai changelog même si elle possède beaucoup de changements importants. Le vrai changelog est disponible [ici](https://web.archive.org/web/20230519092712/https://www.dofus.com/fr/forum/1750-dofus/28043-mise-jour-14-mars).
 
 - Modifications sur les personnages, surtout en prévision de la sortie du système de monture.
 - Fin de sortie de l'extension de Pandala avec l'ajout de l'ile de Grobe, l'ajout de 3 donjons à Pandala, l'ajout de familiers et équipements liés à Pandala,...
@@ -85,7 +85,7 @@ Cette version est la dernière à avoir Tainéla localiser à Amakna, à partir 
 
 ### Dofus 1.13.2
 
-Mise en ligne le 25/04/2006, les modifications sont disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/31332-version-1-13-2-maintenance) ([version archivée](https://web.archive.org/web/20230518080803/https://dofuswiki.fandom.com/de/wiki/Dofus_1.13.2)) et sur jeux-online[ici](https://web.archive.org/web/20070915205150/http://dofus.jeuxonline.info/index.php?page=archives&mois=4&annee=2006), malgré le numéro de version, il s'agit d'une version importante, elle est liée à la version 1.14.
+Mise en ligne le 25/04/2006, les modifications sont disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/31332-version-1-13-2-maintenance) ([version archivée](https://web.archive.org/web/20230519092338/https://www.dofus.com/fr/forum/1750-dofus/31332-version-1-13-2-maintenance)) et sur jeux-online[ici](https://web.archive.org/web/20070915205150/http://dofus.jeuxonline.info/index.php?page=archives&mois=4&annee=2006), malgré le numéro de version, il s'agit d'une version importante, elle est liée à la version 1.14.
 
 Pour commencer, il y a l'ajout des cadeaux d'abonnement, ce qui implique un changement de l'interface de jeu (j'y reviens plus tard). Il y a également la suite et fin de l'ajout de zones liées à Astrub, à ce moment il ne manque à ma connaissance que la zone des calanques d'astrub (qui arrive en 1.19), la zone de la foret des abraknyde est également agrandie (ajout de la zone de la foret des abraknydes sombres ainsi que quelques maps de la forêt des abraknydes). Il y a également l'ajout des fantomes de familiers, la simplification du divorce en allant à l'église, des modifications sur les IA ainsi que des changements sur les repop des monstres.
 
@@ -111,7 +111,7 @@ Il y a également une lassitude par rapport à certains contenu promis depuis lo
 
 ## Dofus 1.14
 
-Cette mise à jour est sortie le 11/07/2006, l'annonce de la sortie est disponible [ici](https://web.archive.org/web/20091129184025/http://dofus.jeuxonline.info/actualites/11382.html) et son changelog est disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/42374-nouvelle-version-1-14-dofus). En dehors de quelques petits correctif, il n'y a pas beaucoup de nouveautés avec cette mise à jour. Cependant une grosse amélioration est l'ajout des fichiers de langues ainsi que les map directement au client, cela permet de ne plus dépendre des serveurs qui contiennent les cartes. Le client bénéficie également de modifications sur son fichier de configuration et cette mise à jour (ou la 1.13.2) reçoit l'interface de sort ainsi que l'inventaire comme ils sont dans dofus 1.29. Cette mise à jour est la dernière des versions 1 de dofus qui recevra des grosses modifications sur les interfaces.  
+Cette mise à jour est sortie le 11/07/2006, l'annonce de la sortie est disponible [ici](https://web.archive.org/web/20091129184025/http://dofus.jeuxonline.info/actualites/11382.html) et son changelog est disponible [ici](https://web.archive.org/web/20210613172935/https://www.dofus.com/fr/forum/1750-dofus/42374-nouvelle-version-1-14-dofus). En dehors de quelques petits correctif, il n'y a pas beaucoup de nouveautés avec cette mise à jour. Cependant une grosse amélioration est l'ajout des fichiers de langues ainsi que les map directement au client, cela permet de ne plus dépendre des serveurs qui contiennent les cartes. Le client bénéficie également de modifications sur son fichier de configuration et cette mise à jour (ou la 1.13.2) reçoit l'interface de sort ainsi que l'inventaire comme ils sont dans dofus 1.29. Cette mise à jour est la dernière des versions 1 de dofus qui recevra des grosses modifications sur les interfaces.  
 
 Cette mise à jour modifie profondément le serveur de connexion. Depuis la version 1.9, le serveur de connexion accède aux données des personnages ce qui le rend très sollicité lorsqu'il y a beaucoup de joueur, à partir de cette version, chaque serveur contient les informations de ces personnages, ce qui fait que le serveur de connexion peux désormais avoir une file d'attente, il ne sert quasiment plus qu'à ça puisqu'à partir de cette version, dès que l'on crée un personnage ou que l'on choisi un serveur, on passe sur le serveur de jeu.  
 
