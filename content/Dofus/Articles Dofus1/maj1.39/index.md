@@ -19,10 +19,17 @@ Voici une image de l'interface:
 ## Le gladiatrool
 
 Le gladiatrool semblais lui aussi présent, comme la collection de carte, cette foncitonnalité a été évoquée dans différentes interview, l'idée semble similaire à celle qui a été ajoutée avec la mise à jour 1.39. 
-Il y a quelques cartes d'intégrées au client, elles sont quasiment identique, les seules modifications sont le public et les obstacle sur la partie jeu.
+Il y a les cartes du gladiatrools qui sont intégrées au client, elles sont quasiment identique, les seules modifications sont le public et les obstacle sur la partie jeu.
 
-Voici une carte prévue:
+Voici une des cartes prévues:
 ![](images/gladiatrool.png)
+
+Sinon, on peux également trouver une phrase qui fait mention au Gladiatrool:  
+
+>"Bienvenue dans l\'arène de Gladiatrooll ! Venez tester votre endurance dans une série de combats contre des monstres terrifiants!  
+Ici, les Kamas ne sont pas acceptés, pour jouer il vous faudra dépenser 100 jetons de la foire du trool !  
+Les règles sont simples, il suffit de survivre et essayer d'aller le plus loin possible, après chaque combat vous avez la possibilité de vous arrêter, ou de continuer.  
+Attention, pour que ce ne soit pas trop facile, avant chaque combat vous aurez une malédiction magique qui réduira vos capacités..."
 
 Liens intéressants:
 - [Les pnj de la foire du trool et ce qu'ils permettent de faire](https://web.archive.org/web/20230327190253/https://children-of-dofus.xooit.com/t226-La-Foire-du-Trool.htm), le gladiatrool y est déja évoqué.
