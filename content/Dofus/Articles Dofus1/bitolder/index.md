@@ -80,7 +80,9 @@ Les éléments interessants de la carte:
 - Beaucoup d'éléments de squelettes.
 - Aucune mention nommée Grotte de Loopine.
 
-La carte n'existe plus dans les versions 1.20, elle semble avoir été retirée du client, tout comme le bitolder. La carte est réapparue avec la version 1.38 de dofus retro dans une version corrigée (il n'est plus possible de marcher sur certaines cases noires), sa sous-zone a changée pour être intégrée à la sous-zone sous terrain mystérieux qui contient les cartes des émotes ainsi que les cartes d'autres sous terrains. La première version disponible de cette carte date de mai 2005 (version 1.7), elle a peux être des versions encore plus anciennes. 
+La première version disponible de cette carte date de mai 2005 (version 1.7), elle a peux être des versions encore plus anciennes.   
+
+La carte n'existe plus dans les versions 1.20, elle semble avoir été retirée du client, tout comme le bitolder. Elle est réapparue avec la version 1.38 de dofus retro dans une version corrigée (il n'est plus possible de marcher sur le décors), sa sous-zone a changée pour être intégrée à la sous-zone sous terrain mystérieux qui contient les cartes des émotes ainsi que les cartes d'autres sous terrains. 
 
 ## 5. La carte de l'entrée de la grotte  
 
@@ -139,13 +141,22 @@ Le bitolder pourrais être un craquage lors du moment de dessiner ce monstre pou
 
 Que le bitolder ai remplacé le croquefeuille expliquerai le déplacement de la maison arbre, le croquefeuille a pu être prévu pour être placé dans la maison arbre avec un background autour de la présence du monstre dans la maison (croque feuille car il mangerai des... feuilles?) cependant au moment de le créer pour l'intégrer au jeu, le craque du bitolder aurais pu provoquer un changement du lore, et l'abandon du croquefeuille. La grotte et Loopine aurais pu être placé ici pour le lore et la maison arbre, à la manière des premières beta, simplement déplacée et laissée pendant un temps sans utilité.
 
+
+## Dofus Rétro et Temporis 2 Rétro
+
+Pour Dofus 1.40, temporis 2 semble avoir permis de retrvailler certains éléments liés au Bitolder, le sprite semble avoir été tenté d'être réimplanté dans la jeu. Cependant, un monstre rerpend en partie le sprite du bitolder: il s'agit du Behef.
+
+![Le Behef](images/behef.png)
+
+La grotte de Loopine n'est pas utilisée pour le Temporis et lle Behef est la seule référence au Bitolder.
+
 ## La suite
 
-Pour continuer les recherches, je pense qu'il faudrais:
-- Rechercher des infos sur la map de la maison de l'arbre avant sont déplacement (avant la v17b)
-- Pour continuer les recherches/tests il me faudrais des versions du jeu comprises entre dofus 1.1 et 1.9.0, la version 1.5.0 me semble la plus intéressante car il s'agit de celle qui à du mettre fin à l'utilisation de flash 6 et donc la version dans laquelle le bitolder aurait été ajouté.
+Pour continuer les recherches, je recherche:
+- Des infos sur la map de la maison de l'arbre avant sont déplacement (avant la v17b)
+- Des versions du jeu comprises entre dofus 1.1 et 1.9.0, la version 1.5.0 me semble la plus intéressante car il s'agit de celle qui à du mettre fin à l'utilisation de flash 6 et donc la version dans laquelle le bitolder aurait été ajouté.
 - Il me manque également le fichier qui contient l'interface de connexion des beta / des premières versions de dofus 1.x qui pourraient permettre de voir si le bitolder s'afficherai.
-- Avoir une version 1.14 "complète" permettrait peux être de mettre la main sur d'ancienne carte (en supposant que toutes les cartes aient été ajoutées à la 1.14 sans être triées)
+- Avoir une version 1.14 "complète" permettrait peux être de mettre la main sur d'ancienne carte et sur du contenu non sorti en jeu.
 
 ## Les références au bitolder dans Dofus
 
