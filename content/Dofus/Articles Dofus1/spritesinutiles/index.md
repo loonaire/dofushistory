@@ -4,20 +4,24 @@ date: 2022-12-25T17:10:20+01:00
 draft: false
 ---
 
+> Information importante:  
+> La plupart des skins sont en réalités utilisés dans le jeu. Je laisse cette pas telle quelle mais certains éléments sont faux.
+
+
 # Analyse des monstres présents dans les fichiers du jeu.
 ## Informations  
 Je vais faire une sorte d'analyse du fichier Sprites.xml et de lecture des sprites (swf) de la version 1.16 de dofus 1, ce fichier contient beaucoup de nom de monstres ainsi que leurs id, cependant, certains monstres n'ont pas tout à fait le même nom que leurs noms définitif en jeu.
 
 ## Les monstres avec des skins
 ---
-On va commencer avec un monstre plus ou moins connu, je sais qu'il a déja été montré, il s'agit du "gros démon sur son canap", c'est un démon sur le "trone" d'ogivol:  
+On va commencer avec un monstre plus ou moins connu, je sais qu'il a déja été montré, il s'agit du "gros démon sur son canap", c'est un démon sur le trone d'ogivol, il s'agit du monstre Uk qui a servi pour un évènement.
 ![](images/grosdemon.png)  
 
 Le second est également surement connus, il s'agit d'un boufton debout. Ce monstre est surement utilisé dans la foire du trooll ou dans un coin bouftou. Il s'appel Bouftou GM (pour guildmaster ou génétiquement modifié comme le wabbit GM?), il semble pouvoir combattre car il a une animation de CC.  
 ![](images/bouftouGM.png)  
 
 
-Le papa nowel maintenant, ici il ne s'appel pas papa nowel mais popy nouel, il s'agit du jeu de mot de base du monstre.  
+Le papa nowel maintenant, ici il ne s'appel pas papa nowel mais popy nouel, il s'agit du jeu de mot de base du monstre. Après vérification, il s'agit finalement du minotoboule de nowel 
 ![](images/popynouel.png)
 
 Le KillBoul, il s'agit probablement de l'ancienne version du Qil Bil, bien plus travaillé que le qil bil actuel...  
@@ -57,13 +61,13 @@ Un lutin, il est nommé Le Lutin Irlandais, surement pour un event saint patrick
 Le célèbre péki garou qui devais être ajouté dans son donjon? (tout étais prêt, le péki péki apparaissait sur l'ile de grobe, probablement un peu comme d'autres monstres, en tant que boss).  
 ![](images/pekigarou.png)
 
-Le boss des plantes, il est plutot pas mal.  
+Le boss des plantes, il s'agit du tournesol affamé. (A confirmer, il s'agit peux être d'un ancien skin)  
 ![](images/bossdesplantes.png)
 
 Peux être la première version du sphincter cell, à noter qu'ici, le nom est splinter, le nom vraiment copier de la référence à splinter cell.  
 ![](images/splinter.png)
 
-Une monture diforme, semble avori fortement inspiré les dragodindes, le drakoalak utilise peux être ce sprite.  
+Une monture diforme, semble avoir fortement inspiré les dragodindes, le drakoalak utilise peux être ce sprite.  
 ![](images/monturediforme.png)
 
 Le tofu transgénique, un tofu malade, était peux être implanté?  
@@ -82,10 +86,10 @@ Sprites liés à la foire du trool, ils sont surement utilisés pour la décorat
 BouftonCus-longiformus:  
 ![](images/BouftonCus-Longiformus.png)
 
-BouftonCus-Quadricornus:  
+BouftonCus-Quadricornus (visible à la foire du trool):  
 ![](images/BouftonCUs-Quadricornus.png)
 
-Bworkitus-double tetus:  
+Bworkitus-double tetus (visible à la foire du trool):  
 ![](images/Bworkitus-DoubleTetus.png)
 
 
