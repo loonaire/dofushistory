@@ -13,7 +13,7 @@ La version 1.9 est une version importante car il s'agit de la version qui pose l
 
 ## Dofus 1.10: Astrub
 
-Le changelog est disponible [ici](https://web.archive.org/web/20051201102318/http://communaute.dofus.com:80/infos/versions.php), la version est sortie le 25/10/2005 et elle ajoute la cité d'Astrub. Elle ajoute également les hotels de vente, un donjon,le système de groupe et le journal de quêtes. Par rapport à la mise en place du journal de quêtes, cette mise à jour intègre désormais les quêtes avec les points d'exclamations sur la tête des pnj.  
+Le changelog est disponible [ici](https://web.archive.org/web/20051201102318/http://communaute.dofus.com:80/infos/versions.php), la version est sortie le 25/10/2005 et elle ajoute la cité d'Astrub. Elle ajoute également les hotels de vente, un donjon,le système de groupe et le journal de quêtes. Par rapport à la mise en place du journal de quêtes, cette mise à jour intègre désormais les quêtes avec les points d'exclamations sur la tête des pnj. Un message du site anglais disponible [ici](https://web.archive.org/web/20061118125738/http://www1.dofus.com/community/infos/news.php?id=138#138) évoque un changement du tutoriel qui passe de tainéla à Astrub (l'arrivée des personnages se fait désormais à Astrub). 
 
 Sans pouvoir dire quelle version exactement (il me faudrais avoir une copie des version 1.10/1.11/1.12), ces versions ont ajoutées énormément de contenu qui n'a jamais été utilisé.
 
