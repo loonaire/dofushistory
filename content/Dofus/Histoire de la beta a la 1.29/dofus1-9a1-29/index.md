@@ -251,7 +251,7 @@ La version 1.20 a été annoncé dès fin juin 2007, elle sera plusieurs fois re
 
 ## Dofus 1.20
 
-Cette version a été annoncée le 29/06/2007, un post sur le forum est disponible [ici](https://web.archive.org/web/20071023221436/http://forum.dofus.fr/topic.php?lang=fr&id=93349), la beta est repoussée au 28/08/2007 mais sera disponible le 11/09/2007. Le changelog final de la mise à jour est disponible [ici](https://web.archive.org/web/20071013034518/http://forum.dofus.fr/topic.php?lang=fr&id=104993), elle est sortie le 25/09/2007. Cette version intègre un nouvel updater qui permet de mettre à jour le jeu lors de son lancement de faàon transparente.
+Cette version a été annoncée le 29/06/2007, un post sur le forum est disponible [ici](https://web.archive.org/web/20071023221436/http://forum.dofus.fr/topic.php?lang=fr&id=93349), la beta est repoussée au 28/08/2007 mais sera disponible le 11/09/2007. Le changelog final de la mise à jour est disponible [ici](https://web.archive.org/web/20071013034518/http://forum.dofus.fr/topic.php?lang=fr&id=104993), elle est sortie le 25/09/2007. Cette version intègre un nouvel updater qui permet de mettre à jour le jeu lors de son lancement de façon transparente.
 
 Voici les modifications importantes de cette version:
 - Nettoyage de certains fichier inutilisés du client
@@ -279,7 +279,8 @@ Une beta 3 est sortie le 7 décembre 2007, la 4ième beta est sortie le 13 déce
 
 ### La version officiel 1.21
 
-La version 1.21.0 sort le 18/12/2007, le changelog est disponible [ici](https://web.archive.org/web/20080409144549/http://forum.dofus.fr/topic.php?lang=fr&id=117027), au final il y a des choses essayées en beta qui ont été retirées et d'autres choses ont été ajoutées sans qu'il en soit fait mention dans les changelog de la beta.
+La version 1.21.0 sort le 18/12/2007, le changelog est disponible [ici](https://web.archive.org/web/20080409144549/http://forum.dofus.fr/topic.php?lang=fr&id=117027), au final il y a des choses essayées en beta qui ont été retirées et d'autres choses ont été ajoutées sans qu'il en soit fait mention dans les changelog de la beta.  
+En exploitant les fichiers, cette version est particulière, l'installer windows contient plusieurs fichier qui n'auraient jamais du sortir en production, par exemple le fichier Dofus.exe est renommé en Dofus_client.exe.
 
 Voici les changements importants:
 - Refonte et ouverture de l'ile de nowel (ajout de 2 donjons, refonte des monstres)
@@ -294,7 +295,7 @@ Le serveur Otomai ouvre le 25/01/2008.
 
 ### Dofus 1.21.1
 
-La beta de cette version est sortie le 17/01/2008, le changelog est disponible [ici](https://web.archive.org/web/20080406132303/http://forum.dofus.fr/topic.php?lang=fr&id=123851). Sa version officielle sort le 29/01/2008, le changelog est disponible [ici](https://web.archive.org/web/20080406132331/http://forum.dofus.fr/topic.php?lang=fr&id=126337), cette version corrige des bug.
+La beta de cette version est sortie le 17/01/2008, le changelog est disponible [ici](https://web.archive.org/web/20080406132303/http://forum.dofus.fr/topic.php?lang=fr&id=123851). Sa version officielle sort le 29/01/2008, le changelog est disponible [ici](https://web.archive.org/web/20080406132331/http://forum.dofus.fr/topic.php?lang=fr&id=126337), cette version corrige des bug et les fichiers présents par erreur dans l'installer de la version 1.21.0.
 
 Le serveur francophone Lily ouvre le 15/02/2008.
 
