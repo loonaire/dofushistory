@@ -20,6 +20,8 @@ Il semble s'agir d'un jeu shoot'em up, [il y a des traces ici](https://web.archi
 #### **1. Le jeu**
 
 Un swf du jeu peux etre trouvé sur archive.org via ce [lien](https://web.archive.org/web/*/http://www.artyslot.com/*) on peux y récuperer le jeu ainsi qu'un fichier de niveau.  
+> Le jeu est désormais accessible depuis le navigateur (le jeu ne charge pas les niveaux) en utilisant [ce lien](https://web.archive.org/web/20020725230148/http://www.artyslot.com/)
+
 Le jeu semble être un enchainement de niveau ou il faut résoudre des enigmes et arriver au niveau maximum (45 dans la version disponible), un laderboard était disponible avec la possibilité d'envoyer les résultats en ligne, il s'agit d'un jeu flash tout simple que l'on trouvais sur certains site.
 
 Voici le niveau 3 du jeu:
