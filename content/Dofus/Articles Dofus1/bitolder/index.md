@@ -30,12 +30,11 @@ Il est possible que les animations de sort du monstre soient présentes ici et i
 ![](images/frames7.gif)  
 ![](images/frames1.gif) 
 
-Enfin, peux être son sort ou une animation:  
+Enfin, peux être son sort ou une animation de mort:  
 ![](images/frames9.gif) 
 
-Le fichier est surement mal compilé, le monstre n'a qu'une orientation de disponible et le fichier possedé n'est pas le fichier original, il est compilé pour flash 7 tandis que Dofus 1.0 utilise des sprites en Flash 6.  
 
-Note: lorsque le client charge l'apparence du bitolder, il n'y a rien qui apparait, le fichier est peux être corrompu ou non fonctionnel à cause de la version de flash player utilisée.
+Le fichier présent dans la version 1.9.1 du client de dofus n'a pas été mis à jour pour être compatible avec cette version, il a cependant été recompilé pour cette version. Il est possible de faire refonctionner le fichier en donnant un nom aux animations présentes dans le fichier. Le fichier présent dans la 1.9.1 est compilé pour flash player 7 or il semble que les sprite soit prévu pour les versions plus aciennes de dofus (premières beta sous flash player 6).
 
 ## 2. Ses informations  
 
@@ -115,13 +114,16 @@ Le dialogue de pnj semble être lié à un lore autour de l'agence touriste et d
 
 ## 8. Une supposition sur la présence du bitolder de la fin de la beta à Dofus 1.9
 
-Il est possible que le bitolder a été crée dans les version beta au moment du rush de création des monstres pour les beta après la v12b, il semble avoir été crée très tot dans le développement et une grande partie de l'histoire du monstre semble avoir été crée autour de l'agence touriste. Surement pour des raisons de temps de développement, bien qu'il ai été crée et prêt pour les dernières beta, il étais prévu pour la version 1.0, peux être qu'il s'agissait d'un monstre pour le labyrinthe Dark Vlad. Cependant je pense que le sprite était corrompu ou incomplet et il n'a pas pu sortir, cependant au moment de la recompilation des sprites pour flash 7, il est possible qu'il ai été ajouté aux fichiers du client par inatention que qu'il y soit resté pendant plusieurs versions avant d'être retiré lors du passage du client à Flash 8. Le monstre aurait donc été retiré car non fonctionnel et inutile. J'ai également supposé qu'il aurais pu s'agir d'un pnj mais ce n'est pas possible, le monstre a un sort, des points de vie et des résistances.
+Il est possible que le bitolder a été crée dans les version beta au moment du rush de création des monstres pour les beta après la v12b, il semble avoir été crée très tot dans le développement du jeu comme l'indique ces animations, le fait que le monstre soit très animé correspond à ce qui a été fait dans les versions beta avant la v15b.
+
+Une grande partie de l'histoire du monstre semble avoir été crée autour de l'agence touriste. Surement pour des raisons de temps de développement, bien qu'il ai été crée et prêt pour les dernières beta, il étais prévu pour la version 1.0, peux être qu'il s'agissait d'un monstre pour le labyrinthe Dark Vlad. Cependant je pense que le sprite était corrompu ou incomplet et il n'a pas pu sortir, cependant au moment de la recompilation des sprites pour flash player 7, il est possible qu'il ai été ajouté aux fichiers du client par inatention et qu'il y soit resté pendant plusieurs versions avant d'être retiré lors du passage du client à Flash player 8. Le monstre aurait donc été retiré car non fonctionnel et inutile. J'ai également supposé qu'il aurais pu s'agir d'un pnj mais ce n'est pas possible, le monstre a un sort, des points de vie et des résistances.
 
 ## 9. Une supposition sur la date de création du Bitolder
 
 Le lien du monstre par rapport au noeul pourrais provenir de sa création pour les toutes premières beta (peux être même avant), la manière de gérer le sprite est proche des premières beta (pas de coup critique) alors que les monstres de la v17b possèdent des coups critiques. Dans ce cas, le monstre aurais été crée avant la modification des numéros de sprite de monstres et il serait bien plus vieux que ce qu'on pense, Tot évoque [dans cette interview](https://youtu.be/KKbyv05FeNE?t=265) une nuit blanche de création d'éléments humoristique pour le jeu, il n'y a aucune date précise mais il se peux que le bitolder soit issu de ce moment.  
-Le fichier a peux être été tenté d'être modifié pour être compatible avec les versions utilisant flash 6 puis 7 du jeu mais sans réussite.  
-Cette théorie me semble largement possible mais si elle vraie, le bitolder proviens peux être d'un autre jeu flash d'ankama ou d'une version alpha du jeu voir même du projet Duel et dans ce cas, le Bitolder pourrais être lié au Moon blanc et à d'autres monstres (voir l'article sur les premiers monstres de dofus).  
+Le fichier a peux être été tenté d'être modifié pour être compatible avec les versions sous Flash Player 8 du jeu, cela expliquerai le seul screen du Bitolder sorti, si un dev était en Bitolder avec le sprite debug, le jeu chargais correctement le monstre pour la personne qui aurais eu ce fichier modifié, le sprité bug n'est pas du tout chargé par le client normal, les joueurs aurait vu un monstre invisible. 
+
+Si le bitolder a vraiment été crée dans le moment d'une très ancienne beta du jeu, il proviens peux être d'un autre jeu flash d'ankama ou d'une version alpha du jeu voir même du projet Duel et dans ce cas, le Bitolder pourrais être lié au Moon blanc et à d'autres monstres (voir l'article sur les premiers monstres de dofus).  
 J'ai également remarqué que les monstres sont ajoutés de manière limitées, ce qui veux dire que si le bitolder a été à un moment imaginé et son id a été défini, il ne peux pas s'agir d'un placeholder mais il a bel et bien été pensé pour sortir. Comme je l'ai dit, il s'agit peux être d'un très ancien sprite qui a été tenté d'être mis à jour vers flash 6 puis 7 sans succès, ce qui expliquerai sa présence puis sa suppression.
 
 ## 10. Une troisième supposition
@@ -168,10 +170,11 @@ Merci à Liche qui fait des vidéos sur le sujet et qui en a parler. [Voir sa vi
 
 ## CHANGELOG:
 
-07/01/2023: Ajout du lien entre le croquefeuille et la maison arbre
-05/01/2023: ajout d'une partie sur l'accès à la grotte et ajout d'une 3ième supposition
-01/01/2023: refonte de l'article et simplification pour éviter les répétitions et ajout des parties sur mes suppositions
-26/12/2022: Modification sur Loopine
+05/10/2023: Modification de certaines parties qui concernent flash player suite au debug du sprite  
+07/01/2023: Ajout du lien entre le croquefeuille et la maison arbre  
+05/01/2023: Ajout d'une partie sur l'accès à la grotte et ajout d'une 3ième supposition  
+01/01/2023: refonte de l'article et simplification pour éviter les répétitions et ajout des parties sur mes suppositions  
+26/12/2022: Modification sur Loopine  
 04/11/2022: Ajout des informations sur les modifications de la carte de la grotte  
 03/11/2022: grosse modifications sur les théories suite à la découverte de la v17b  
 30/05/2021 : Mise à jour "finale" de l'article, sauf si un jour j'arrive à récuperer une version beta 17b, il est actuellement impossible d'aller chercher plus d'élément et de connaitre plus d'éléments.  
