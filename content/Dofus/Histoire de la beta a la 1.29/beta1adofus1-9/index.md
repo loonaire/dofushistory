@@ -407,7 +407,10 @@ Le 16 aout 2005 un reboot avec des modifications a eu lieu ([source](https://web
 
 LA version, pour moi il s'agit de la vraie version 1.0 du jeu, elle est sortie le 1er septembre 2005 (1 an après la sortie officielle du jeu), elle intègre des petits correctifs mais surtout elle pose les bases des prochains clients du jeu. Le lendemain, le 2 septembre 2005, le patch 1.9.1 a été déployé. Le changelog officiel est disponible [ici](https://web.archive.org/web/20051012094317/http://communaute.dofus.com/infos/versions.php) et sa version plus complète sur le forum est disponible [ici](https://web.archive.org/web/20060327122608/http://forum.dofus.com/topic.php?id=18637). La note du patch 1.9.1 est disponible [ici](https://web.archive.org/web/20060302110124/http://forum.dofus.com/topic.php?id=18854), ce patch est sorti le 2 septembre 2005 et il est sorti pour corriger un bug qui jetais au sol un équipement au lieu de l'équiper sur le personnage.
 
-La vitesse des animations en combat du jeu est augmentée par 1.5, les combats de dofus 1.29 étais déja lent mais ca ne devais pas être mieux avant la version 1.9.    
+Cette version est la première qui ne permet plus de jouer depuis le site internet jouer.dofus.com. Depuis les beta, cette page permettait de lancer le jeu depuis le navigateur, cette version intègre l'interface de connexion directement dans et client et comme il s'agit de la première version avec un vrai serveur de connexion, l'accès au jeu depuis le site web est surement devenue trop complexe à développer. Désormais un fichier exe est intégré au client et il permet de lancer le jeu sans passer par le navigateur. Ces modifications expliquent que els screens avant septembre 2005 soient en très grande majorité pris sur un navigateur internet tandis qu'à partir de septembre 2005 on ne vois plus de navigateur.
+
+
+La vitesse des animations en combat du jeu est augmentée par 1.5, les combats de dofus 1.29 était déja lent mais ca ne devais pas être mieux avant la version 1.9.    
 
 Sur les modifications du client, il y a beaucoup à dire:
 - La manière dont son gérés les textes, désormais le client va vérifier la langue de l'ordinateur et pouvoir afficher le texte en anglais ou en français en fonction de la langue de l'ordinateur.
