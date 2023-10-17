@@ -321,7 +321,7 @@ Avant la sortie de la version 1.2, [une liste des prochaines évolutions] (https
 
 La sortie de cette version a eu lieu le 11 octobre 2004, la news de la sortie est disponible [ici](https://web.archive.org/web/20041026161611/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=142). Le changelog de la mise à jour est disponible [ici](https://web.archive.org/web/20041028220648/http://www.dofus.com/?page=news&rubrique=v1.1&contenu=v1.1) et la news du changelog [ici](https://web.archive.org/web/20041026160759/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=141). La mise à jour 1.1 ajoute l'ile des wabbits, le métier de tailleur et de forgeur de haches ainsi que l'updater en plus de l'habituel équilibrage. Le changelog rappel également qu'à l'époque, les aggressions faisaient perdre les équipements des perdant. L'updater arrive pour la première fois avec cette version, il permettais de mettre automatiquement le jeu à jour.
 
-# Dofus 1.2
+### Dofus 1.2
 
 Le 18 octobre 2004, lors [d'un reboot du serveur](https://web.archive.org/web/20041027174351/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=143) [la mise à jour 1.2 est déployé](https://web.archive.org/web/20041112070926/http://www.dofus.com/?page=news&rubrique=v1.2.1&contenu=v1.2.1), elle apporte la nouvelle apparence des personnages ainsi que des correctifs, le 29 octobre 2004 [la mise à jour 1.2.1 est déployé](https://web.archive.org/web/20041103233231/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=148) et corrige les problèmes de la version 1.2.
 
