@@ -67,7 +67,7 @@ Cette version est une version qui a connu 3 mises à jours mineures qui ont chan
 Cette version est sortie le 14/03/2006, les changements sont disponible [ici](https://web.archive.org/web/20060315055316/http://dofus.jeuxonline.info:80/actualites/10210.html), cette mise à jour ne possède pas de vrai changelog même si elle possède beaucoup de changements importants. Le vrai changelog est disponible [ici](https://web.archive.org/web/20230519092712/https://www.dofus.com/fr/forum/1750-dofus/28043-mise-jour-14-mars).
 
 - Modifications sur les personnages, surtout en prévision de la sortie du système de monture.
-- Fin de sortie de l'extension de Pandala avec l'ajout de l'ile de Grobe, l'ajout de 3 donjons à Pandala, l'ajout de familiers et équipements liés à Pandala,...
+- Fin de sortie de l'extension de Pandala avec l'ajout de l'ile de Grobe, l'ajout des 4 donjons à Pandala, l'ajout de familiers et équipements liés à Pandala,...
 - Refonte du système d'oubli de sort, les potions ne sont plus craftées par les alchimistes, elle sont désormais disponible en vente en pnj du temple de la classe du personnage..
 - Ajout de la barre de sort déplacable pour pouvoir jouer encore plus de sorts.
 - Un des changements les plus importants: Ajout de la possibilité de se connecter à Dofus via le port 443, il permet de jouer à Dofus sur les connexions qui possèdent des filtres.
@@ -196,7 +196,7 @@ Les modifications sont surtout mineures, le plus important étant la mise à jou
 
 Il semble également que cette mise à jour ajoute au jeu la possibilité de craft de clé pour les bricoleurs cependant cette fonctionnalité semble avoir eu un bug, elle sortira avec la mise à jour 1.18 ([source](https://web.archive.org/web/20070223035354/http://forum.dofus.com/topic.php?lang=fr&id=72473)).
 
-Une mise à jour facultative 1.17.1 est sortie, d'abord en beta ([changelog beta](https://web.archive.org/web/20070225202326/http://forum.dofus.com/topic.php?lang=fr&id=72817)) puis sur les serveur officiels le 27/02/2007, le chngelog est disponible [ici](https://web.archive.org/web/20070302072737/http://forum.dofus.com/topic.php?lang=fr&id=73554). Cette mise à jour ajout les auras pour les personnages niveau 200.
+Une mise à jour facultative 1.17.1 est sortie, d'abord en beta ([changelog beta](https://web.archive.org/web/20070225202326/http://forum.dofus.com/topic.php?lang=fr&id=72817)) puis sur les serveur officiels le 27/02/2007, le changelog est disponible [ici](https://web.archive.org/web/20070302072737/http://forum.dofus.com/topic.php?lang=fr&id=73554). Cette mise à jour ajout les auras pour les personnages niveau 200.
 
 ## Dofus 1.18: Incarnam et l'international
 
