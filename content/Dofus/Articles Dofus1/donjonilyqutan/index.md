@@ -21,3 +21,4 @@ Le donjon a les mapid 11965 à 11969 et 11975 pour la map du boss.
 
 ## Liens
 [BEACOUP d'infos ici](https://forums.jeuxonline.info/sujet/1152388-3/les-mysteres-de-dofus-futur-implantation) (note: nilevaj = ilyzaelle, tolevaj aussi)
+[Quelques infos sur les légendes de dofus](https://web.archive.org/web/20231225175902/https://www.dofus.com/fr/forum/1003-divers/1932436-legendes-mysteres-dofus)
