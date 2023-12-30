@@ -48,7 +48,6 @@ L'id de sa sous-zone montre qu'il à été crée après les donjon ilyzaelle et 
 ![image](images/12027.png)
 ![image](images/12028.png)
 
-
 ## Suppositions / Reflexions
 
 Cette zone est liée à beaucoup de choses, tout d'abord la date de son ajout (fin 2007, mise à jour 1.19 probablement), qui correspond à l'ajout de la zone de la baie de cania (liée aux calanques d'astrub), je n'ai plus le sujet du forum mais cette entrée semble avoir été ajoutée avec la grotte de l'entrée du donjon blop (avant que le donjon ne soit sorti), ce qui correspond aux versions 1.19/1.20.
@@ -58,9 +57,19 @@ Cette zone ressemble également un peu à la caverne fungus, il se pourrait quel
 
 Autre hypothèse, cette grotte, et en particulier le panneau avec le coeur à l'entrée, aurait été au tout départ prévu pour ressuciter les familiers, le changelog 1.19 mentionne la possibilité de réssuciter les familiers auprès d'oshimo avec de la poudre d'eniripsa, cette zone aurais pu être un mini donjon ou une simple map avec un pnj.
 
+# Dofus 2.0
 
-## Divers liens 
+Cette zone a été revue intégralement avec Dofus 2.0, elle disparaitra après la version 2.3.7 mais je ne sais pas quand.
+Cette zone semble être divisée 2 en parties.
 
-[Sujet du forum officiel](https://www.dofus.com/fr/forum/1003-divers/1932436-legendes-mysteres-dofus?sort=rate_D&page=1) , en bas de page Korri évoque le contenu non terminé
-[Annonce du retrait du sanctuaire](https://www.dofus.com/fr/forum/1103-discussions-generales/2176880-vole-sanctuaire-hotomani?page=1)
+#### Partie 1:
+![](images/Hotomani2.0-1.jpeg)
+
+#### Partie 2:
+![](images/Hotomani2.0-2.jpeg)
+
+## liens 
+
+[Sujet du forum officiel](https://www.dofus.com/fr/forum/1003-divers/1932436-legendes-mysteres-dofus?sort=rate_D&page=1) , en bas de page Korri évoque le contenu non terminé  
+[Annonce du retrait du sanctuaire](https://www.dofus.com/fr/forum/1103-discussions-generales/2176880-vole-sanctuaire-hotomani?page=1)  
 [Infos sur les dialogues en lien avec la zone](https://www.dofus.com/fr/forum/1003-divers/188420-sanctuaire-hotomani?page=3)

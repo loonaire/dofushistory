@@ -19,6 +19,11 @@ Alors que le dojon Ilyzaelle est pensé depuis la version 1.21, celui ci a été
 Le donjon a les mapid 11965 à 11969 et 11975 pour la map du boss.
 
 
+## Dofus 2.0
+
+Au moment du passage à Dofus 2.0, les 2 donjons ont été redisgné ainsi que Qu'Tan, mais même si les sprites d'Ilyzaelle et Ku'Tan sont présent, les 2 monstres n'ont rien d'autres.
+
+
 ## Liens
 [BEACOUP d'infos ici](https://forums.jeuxonline.info/sujet/1152388-3/les-mysteres-de-dofus-futur-implantation) (note: nilevaj = ilyzaelle, tolevaj aussi)
 [Quelques infos sur les légendes de dofus](https://web.archive.org/web/20231225175902/https://www.dofus.com/fr/forum/1003-divers/1932436-legendes-mysteres-dofus)
