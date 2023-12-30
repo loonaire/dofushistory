@@ -7,8 +7,6 @@ draft: false
 > Information importante:  
 > La plupart des skins sont en réalités utilisés dans le jeu. Je laisse cette pas telle quelle mais certains éléments sont faux.
 
-
-# Analyse des monstres présents dans les fichiers du jeu.
 ## Informations  
 Je vais faire une sorte d'analyse du fichier Sprites.xml et de lecture des sprites (swf) de la version 1.16 de dofus 1, ce fichier contient beaucoup de nom de monstres ainsi que leurs id, cependant, certains monstres n'ont pas tout à fait le même nom que leurs noms définitif en jeu.
 
@@ -67,7 +65,7 @@ Le boss des plantes, il s'agit du tournesol affamé. (A confirmer, il s'agit peu
 Peux être la première version du sphincter cell, à noter qu'ici, le nom est splinter, le nom vraiment copier de la référence à splinter cell.  
 ![](images/splinter.png)
 
-Une monture diforme, semble avoir fortement inspiré les dragodindes, le drakoalak utilise peux être ce sprite.  
+Une monture diforme, semble avoir fortement inspiré les dragodindes, le drakoalak utilise indirectement ce sprite.  
 ![](images/monturediforme.png)
 
 Le tofu transgénique, un tofu malade, était peux être implanté?  
