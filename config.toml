@@ -9,7 +9,7 @@ copyright = "Contenu géré par Loonaire, certaines images utilisées sont la pr
 
 defaultContentLanguage = "fr"
 [Languages]
-[Languages.fr]
+[Languages.fr.params]
   landingPageName = "<i class='fas fa-home'></i> Accueil"
 
 # Affiche les icones dans la barre du haut

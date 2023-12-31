@@ -61,26 +61,45 @@ Si vous avez des informations manquante à me transmette, ça m'intéresse! :)
 | 1.8 | 20 juillet 2005 | [Changelog](https://web.archive.org/web/20051028174559/http://forum.dofus.com/topic.php?id=17140) | [Copie du changelog](changelogsv1/changelog1_8#dofus-18) | Dernière version seulement en français et dernière version qui utilise le système de connexion de la beta |
 | 1.9 | 1 septembre 2005 | [Changelog](https://web.archive.org/web/20051012094317/http://communaute.dofus.com/infos/versions.php) | [Copie du changelog](changelogsv1/changelog1_9#dofus-19) | Sortie internationale du jeu,ajout de la langue anglaise |
 | 1.9.1 | 2 septembre 2005 | [Changelog](https://web.archive.org/web/20060329080654/http://forum.dofus.com/topic.php?id=18854) | [Copie du changelog](changelogsv1/changelog1_9#dofus-191) | Correction d'un bug critique de la version 1.9.0 |
-| 1.10 | - | - | - | - |
-| 1.11 | - | - | - | - |
-| 1.12 | - | - | - | - |
-| 1.13 | - | - | - | - |
-| 1.14 | - | - | - | - |
-| 1.15 | - | - | - | - |
-| 1.16 | - | - | - | - |
-| 1.17 | - | - | - | - |
-| 1.18 | - | - | - | - |
-| 1.19 | - | - | - | - |
+| 1.10 | 25 octobre 2005 | [Changelog](https://web.archive.org/web/20051201102318/http://communaute.dofus.com:80/infos/versions.php) | [Changelog Anglais](https://web.archive.org/web/20061118125738/http://www1.dofus.com/community/infos/news.php?id=138#138) | Arrivé d'astrub et du mode free to play |
+| 1.11 | 20 décembre 2005 | [Changelog](https://web.archive.org/web/20230306132942/https://dofus.jeuxonline.info/actualite/9433/dofus-1110-disponible)  | - | Partie 2 d'Astrub ainsi que diverses corrections |
+| 1.12 | 22 février 2006 | [Changelog](https://web.archive.org/web/20060228221418/http://communaute.dofus.com/infos/news.php?id=286) | [Changelog mise à jour corrective](https://web.archive.org/web/20060331034415/http://forum.dofus.com/topic_en.php?id=12395) | Arrivée de Pandala et de la classe Pandawa |
+| 1.13.0 | 14 mars 2006 | [Changelog](https://web.archive.org/web/20230519092712/https://www.dofus.com/fr/forum/1750-dofus/28043-mise-jour-14-mars) | - | Partie 2 de Pandala (donjons + Grobe) |
+| 1.13.1 | 18 mars 2006 | [Changelog](https://web.archive.org/web/20061117003127/http://dofus.jeuxonline.info:80/actualites/10271.html) | - | - |
+| 1.13.2 | 25 avril 2006 | [Changelog](https://web.archive.org/web/20230519092338/https://www.dofus.com/fr/forum/1750-dofus/31332-version-1-13-2-maintenance) | - | Arrivée de l'interface de connexion qui restera jusqu'à dofus 1.29 |
+| 1.14.0 | 11 juilet 2006 | [Changelog](https://web.archive.org/web/20210613172935/https://www.dofus.com/fr/forum/1750-dofus/42374-nouvelle-version-1-14-dofus) | - | Intégration des fichiers lang au client |
+| 1.14.1 | 19 juillet 2006 | [Changelog](https://web.archive.org/web/20061117005006/http://dofus.jeuxonline.info/actualites/11462.html) | - | - |
+| 1.14.2 | 5 septembre 2006 | [Changelog](https://web.archive.org/web/20060911071014/http://dofus.jeuxonline.info:80/articles/2632/Notes_de_version_1.14.2) | - | - |
+| 1.15.0 | - | - | - | - |
+| 1.15.1 | - | - | - | - |
+| 1.15.2 | 3 octobre 2005 | [Changelog](https://web.archive.org/web/20070320223332/http://dofus.jeuxonline.info:80/articles/2761/Notes_de_version_1.15.2) | [Changelog correctif serveur](https://web.archive.org/web/20231231204253/https://www.dofus.com/fr/forum/1750-dofus/54142-mise-jour-serveurs-06-10-06) | Sortie des montures et de la zone koalak |
+| 1.15.3 | 24 octobre 2006 | [Changelog](https://web.archive.org/web/20061130223618/http://forum.dofus.com/topic.php?lang=fr&id=55914) | - | Ajout de donjons et des familiers dévoreur d'âmes |
+| 1.15.4 | 26 octobre 2006 | [Changelog](https://web.archive.org/web/20061101012924/http://dofus.jeuxonline.info:80/articles/2908/Notes_de_version_1.15.4) | - | Correction de bug de la version 1.15.3 |
+| 1.16.0 | - | - | - | - |
+| 1.16.1 | - | - | - | - |
+| 1.16.2 | 19 décembre 2006 | [Changelog](https://web.archive.org/web/20210613181316/https://www.dofus.com/fr/forum/1750-dofus/62128-details-informations-propos-prochaine-mise-jour-1-16-2-dofus) | - | Arrivée de l'ile de nowel et refonte de la forgemagie |
+| 1.16.3 | 20 décembre 2006 | [Changelog](https://web.archive.org/web/20070129075232/http://forum.dofus.com/topic.php?lang=fr&id=63692) | - | - |
+| 1.16.4 | 9 janvier 2007 | [Changelog](https://web.archive.org/web/20070202005221/http://dofus.jeuxonline.info:80/articles/3211/Notes-de-version-1.16.4) | - | refonte des raccourcis clavier |
+| 1.17.0b | 31 janvier 2007 | [Changelog](https://web.archive.org/web/20070202091300/http://forum.dofus.com/topic.php?lang=fr&id=69356) | - | - |
+| 1.17.0 | 13 février 2007 | [Changelog](https://web.archive.org/web/20070223144404/http://forum.dofus.com/topic.php?lang=fr&id=70811) | - | Refonte graphique d'Amakna |
+| 1.17.1 | 27 février 2007 | [Changelog](https://web.archive.org/web/20070302072737/http://forum.dofus.com/topic.php?lang=fr&id=73554) | - | Ajout de l'aura de niveau 200 |
+| 1.18.0 | 5 avril 2007 | [Changelog](https://web.archive.org/web/20071009012936/http://forum.dofus.fr/topic.php?id=78106) | - | Refonte d'une partie des interfaces du client |
+| 1.18.1 | 7 avril 2007 | [Changelog](https://web.archive.org/web/20071021213420/http://forum.dofus.fr/topic.php?lang=fr&id=78713) | - | - |
+| 1.18.2 | 15 mai 2007 | [Changelog](https://web.archive.org/web/20071021213233/http://forum.dofus.fr/topic.php?lang=fr&id=85187) | - | - |
+| 1.18.3b | 1 juin 2007 | [Changelog](https://web.archive.org/web/20071021173325/http://forum.dofus.fr/topic.php?lang=fr&id=88301) | - | Version devenue la 1.19 |
+| 1.19 | 19 juin 2007 | [Changelog](https://web.archive.org/web/20071021173304/http://forum.dofus.fr/topic.php?lang=fr&id=91090) | - | Ajout des quête du chateau d'Amakna et ajout de diverses zones |
 | 1.20 | - | - | - | - |
 | 1.21 | - | - | - | - |
+| 1.21.1 | - | - | - | - |
 | 1.22 | - | - | - | - |
 | 1.23 | - | - | - | - |
 | 1.24 | - | - | - | - |
 | 1.25 | - | - | - | - |
 | 1.26 | - | - | - | - |
-| 1.27 | - | - | - | - |
+| 1.27.0 | - | - | - | - |
+| 1.27.1 | - | - | - | - |
 | 1.28 | - | - | - | - |
-| 1.29 | - | - | - | - |
+| 1.29.0 | - | - | - | - |
 | 1.29.1 | - | - | - | - |
 
 ## Versions Dofus Rétro

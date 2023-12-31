@@ -13,7 +13,9 @@ La version 1.9 est une version importante car il s'agit de la version qui pose l
 
 ## Dofus 1.10: Astrub
 
-Le changelog est disponible [ici](https://web.archive.org/web/20051201102318/http://communaute.dofus.com:80/infos/versions.php), la version est sortie le 25/10/2005 et elle ajoute la cité d'Astrub. Elle ajoute également les hotels de vente, un donjon,le système de groupe et le journal de quêtes. Par rapport à la mise en place du journal de quêtes, cette mise à jour intègre désormais les quêtes avec les points d'exclamations sur la tête des pnj. Un message du site anglais disponible [ici](https://web.archive.org/web/20061118125738/http://www1.dofus.com/community/infos/news.php?id=138#138) évoque un changement du tutoriel qui passe de tainéla à Astrub (l'arrivée des personnages se fait désormais à Astrub). 
+Le changelog est disponible [ici](https://web.archive.org/web/20051201102318/http://communaute.dofus.com:80/infos/versions.php), la version est sortie le 25/10/2005 et elle ajoute la cité d'Astrub. Elle ajoute également les hotels de vente, un donjon,le système de groupe et le journal de quêtes. Par rapport à la mise en place du journal de quêtes, cette mise à jour intègre désormais les quêtes avec les points d'exclamations sur la tête des pnj ainsi que les avis de recherche. Un message du site anglais disponible [ici](https://web.archive.org/web/20061118125738/http://www1.dofus.com/community/infos/news.php?id=138#138) évoque un changement du tutoriel qui passe de tainéla à Astrub (l'arrivée des personnages se fait désormais à Astrub). 
+
+Cette mise à jour est également l'arrivée du mode gratuit sur le jeu: la cité d'astrub est accessible gratuitement sans limitation pour tous le monde.
 
 Sans pouvoir dire quelle version exactement (il me faudrais avoir une copie des version 1.10/1.11/1.12), ces versions ont ajoutées énormément de contenu qui n'a jamais été utilisé.
 
@@ -59,7 +61,7 @@ Le 28/02/2006 une petite mise à jour à eu lieu, un changelog en anglais est di
 
 ## Dofus 1.13
 
-Cette version est une version qui a connu 3 mises à jours mineures qui ont changées beaucoup au jeu, c'est pourquoi je divise cette version en 3 parties.
+Cette version est une version qui a connu 3 mises à jours mineures qui ont changées beaucoup au jeu.
 
 
 ### Dofus 1.13.0
@@ -80,12 +82,12 @@ Cette version est sortie le 18/03/2006, elle contient essentiellement des correc
 
 Dans ces versions, le seul moyen de récupérer des points de vie était de s'asseoir ([source](https://web.archive.org/web/20230321192917/https://forums.jeuxonline.info/sujet/651858/bug-simpa-je-recupere-des-pv-debout)).
 
-Cette version est la dernière à avoir Tainéla localiser à Amakna, à partir de la version 1.13.2, Tainéla est déplacée au nord d'astrub. 
+Cette version est la dernière à avoir Tainéla localisé à Amakna, à partir de la version 1.13.2, Tainéla est déplacée au nord d'astrub. 
 
 
 ### Dofus 1.13.2
 
-Mise en ligne le 25/04/2006, les modifications sont disponible [ici](https://www.dofus.com/fr/forum/1750-dofus/31332-version-1-13-2-maintenance) ([version archivée](https://web.archive.org/web/20230519092338/https://www.dofus.com/fr/forum/1750-dofus/31332-version-1-13-2-maintenance)) et sur jeux-online[ici](https://web.archive.org/web/20070915205150/http://dofus.jeuxonline.info/index.php?page=archives&mois=4&annee=2006), malgré le numéro de version, il s'agit d'une version importante, elle est liée à la version 1.14.
+Mise en ligne le 25/04/2006, les modifications sont disponible [ici](https://web.archive.org/web/20230519092338/https://www.dofus.com/fr/forum/1750-dofus/31332-version-1-13-2-maintenance) et sur jeux-online[ici](https://web.archive.org/web/20070915205150/http://dofus.jeuxonline.info/index.php?page=archives&mois=4&annee=2006), malgré le numéro de version, il s'agit d'une version importante, elle est liée à la version 1.14.
 
 Pour commencer, il y a l'ajout des cadeaux d'abonnement, ce qui implique un changement de l'interface de jeu (j'y reviens plus tard). Il y a également la suite et fin de l'ajout de zones liées à Astrub, à ce moment il ne manque à ma connaissance que la zone des calanques d'astrub (qui arrive en 1.19), la zone de la foret des abraknyde est également agrandie (ajout de la zone de la foret des abraknydes sombres ainsi que quelques maps de la forêt des abraknydes). Il y a également l'ajout des fantomes de familiers, la simplification du divorce en allant à l'église, des modifications sur les IA ainsi que des changements sur les repop des monstres.
 
@@ -111,11 +113,9 @@ Il y a également une lassitude par rapport à certains contenu promis depuis lo
 
 ## Dofus 1.14
 
-Cette mise à jour est sortie le 11/07/2006, l'annonce de la sortie est disponible [ici](https://web.archive.org/web/20091129184025/http://dofus.jeuxonline.info/actualites/11382.html) et son changelog est disponible [ici](https://web.archive.org/web/20210613172935/https://www.dofus.com/fr/forum/1750-dofus/42374-nouvelle-version-1-14-dofus). En dehors de quelques petits correctif, il n'y a pas beaucoup de nouveautés avec cette mise à jour. Cependant une grosse amélioration est l'ajout des fichiers de langues ainsi que les map directement au client, cela permet de ne plus dépendre des serveurs qui contiennent les cartes. Le client bénéficie également de modifications sur son fichier de configuration et cette mise à jour (ou la 1.13.2) reçoit l'interface de sort ainsi que l'inventaire comme ils sont dans dofus 1.29. Cette mise à jour est la dernière des versions 1 de dofus qui recevra des grosses modifications sur les interfaces.  
+Cette mise à jour est sortie le 11/07/2006, l'annonce de la sortie est disponible [ici](https://web.archive.org/web/20091129184025/http://dofus.jeuxonline.info/actualites/11382.html) et son changelog est disponible [ici](https://web.archive.org/web/20210613172935/https://www.dofus.com/fr/forum/1750-dofus/42374-nouvelle-version-1-14-dofus). En dehors de quelques petits correctif, il n'y a pas beaucoup de nouveautés avec cette mise à jour. Cependant une grosse amélioration est l'ajout des fichiers de langues ainsi que les map directement au client, cela permet de ne plus dépendre des serveurs qui contiennent les cartes. Le client bénéficie également de modifications sur son fichier de configuration et cette mise à jour (ou la 1.13.2) reçoit des modification sur l'interface de sort qui sera la même que celle de la version 1.29 ainsi que sur l'inventaire qui subira une première modification pour s'approcher de l'interface de dofus 1.29. Cette mise à jour est la dernière des versions 1 de dofus qui recevra des grosses modifications sur les interfaces.  
 
 Cette mise à jour modifie profondément le serveur de connexion. Depuis la version 1.9, le serveur de connexion accède aux données des personnages ce qui le rend très sollicité lorsqu'il y a beaucoup de joueur, à partir de cette version, chaque serveur contient les informations de ces personnages, ce qui fait que le serveur de connexion peux désormais avoir une file d'attente, il ne sert quasiment plus qu'à ça puisqu'à partir de cette version, dès que l'on crée un personnage ou que l'on choisi un serveur, on passe sur le serveur de jeu.  
-
-Cette mise à jour semble être celle du déplacement de Tainéla au dessus d'astrub mais je ne peux pas le confirmer.
 
 Le patch optionnel 1.14.1 est sorti le 19/07/2006, il est possible de le lire [ici](https://web.archive.org/web/20061117005006/http://dofus.jeuxonline.info/actualites/11462.html), il contient surtout des petits debug du client et la 1.14.0 continue d'être pleinement utilisable.
 
@@ -129,6 +129,10 @@ Le 26/09/2006 ouvre le second serveur international: Rosal.
 
 Cette version est particulière, il n'y a aucune mention des versions 1.15.0 et 1.15.1 de cette version, elle sortira le 3/10/2006 sous le numéro de version 1.15.2 et son changelog est disponible [ici](https://web.archive.org/web/20070320223332/http://dofus.jeuxonline.info:80/articles/2761/Notes_de_version_1.15.2).
 
+Un patch correctif a été déployé le 6/10/2006, son contenu est disponible [ici](https://web.archive.org/web/20231231204253/https://www.dofus.com/fr/forum/1750-dofus/54142-mise-jour-serveurs-06-10-06).
+
+
+
 Après la version 1.14 qui a permis beaucoup de modification d'interfaces et coté serveur, cette mise à jour reçoit beaucoup de nouveautés et de mises à jour de gameplay:
 
 - Arrivée des montures, les dragodindes, il s'agit d'un chantier démarré dans les dernière versions de la beta de dofus (début 2004).
@@ -141,28 +145,28 @@ Après la version 1.14 qui a permis beaucoup de modification d'interfaces et cot
         - HDV des runes
         - HDV Bricoleur
     - Le chateau d'Amakna:
-        - Refonte complète de la zone du chateau d'Amakna (accessible depuis les beta du jeu à l'aide d'un bug mais n'était pas officiellement disponible)
+        - Refonte complète de la zone du chateau d'Amakna (accessible depuis les beta du jeu à l'aide d'un bug mais n'était pas officiellement disponible), la tour d'Allister n'était pas encore accessible.
         - Ajout de la zone de l'élevage des bouftou entre le chateau d'Amakna et Astrub
         - Ajout des sous terrains du chateau qui relient Amakna à Astrub
     - Le village bwork est revu avec la création du village gobelin.
 - Ajout du donjon Craqueleur
 - 2 nouveaux métiers:
-    - Le métier de bricoleur pour le craft d'objets d'élevage
-    - Le métier d'éleveur qui n'est pas officiellement un métier
-- Ajout des premières mesures anti-bot avec les protecteurs de ressources qui n'ont été modifiés jusqu'en 2022
+    - Le métier de bricoleur pour le craft d'objets d'élevage, à noter qu'il semble que les ateliers de bonta et brakmar semble déja exister avant cette mise à jour.
+    - Le métier d'éleveur qui n'est pas un métier mais est considéré comme tel au départ.
+- Ajout des premières mesures anti-bot avec les protecteurs de ressources qui n'ont pas été modifiés jusqu'en 2022
 - La possibilité de réussucité les familiers avec le donjon familier
 
 Le même jour que la mise à jour 1.15.2 un nouveau serveur francophone arrive, il s'agit de Maimane.
 
-Cette mise à jour ajout également la possibilité de s'inscrire directement depuis l'interface de connexion du client, elle sera retirée avec la mise à jour 1.19 (je ne suis pas sur de la version de mise en place de ce système, il s'agit peux être de la 1.14).
+(A confirmer: peux être qu'il s'agit de la version 1.14) Cette mise à jour ajoute également la possibilité de s'inscrire directement depuis l'interface de connexion du client, elle sera retirée quelques mise à jour plus tard (vers la version 1.20).
 
-Les mises à jour 1.15.3 et 1.15.4 sont des mises à jours de correctifs de bug, le changelog de la 1.15.3 est disponible [ici](https://web.archive.org/web/20061130223618/http://forum.dofus.com/topic.php?lang=fr&id=55914) et celui de la 1.15.4 [ici](https://web.archive.org/web/20061101012924/http://dofus.jeuxonline.info:80/articles/2908/Notes_de_version_1.15.4), cette dernière est facultative.
+Les mises à jour 1.15.3 et 1.15.4 sont des mises à jours de correctifs de bug, le changelog de la 1.15.3 est disponible [ici](https://web.archive.org/web/20061130223618/http://forum.dofus.com/topic.php?lang=fr&id=55914), la mise à jour est sortie le 24/10/2006 et ajoute des donjons ainsi que les familiers dévoreur d'ames. Pour la 1.15.4, elle est sortie le 26/10/2006, le changelog est disponible [ici](https://web.archive.org/web/20061101012924/http://dofus.jeuxonline.info:80/articles/2908/Notes_de_version_1.15.4), cette dernière est facultative.
 
 Le 5/12/2006 le serveur francophone Silvosse est sorti.
 
 ## Dofus 1.16
 
-Comme pour la version 1.15, les versions 1.16.0 et 1.16.1 sont les versions beta, le premier patch officiel de la 1.16 est la version 1.16.2 sorti le 19/12/2006, son changelog est disponible [ici](https://web.archive.org/web/20070505013048/http://dofus.jeuxonline.info/articles/3067/Notes-de-version-1.16.2). Cette mise à jour s'accompagne de la sortie de 2 nouveaux serveurs: Brumaire et Pouchecot.
+Comme pour la version 1.15, les versions 1.16.0 et 1.16.1 sont les versions beta, le premier patch officiel de la 1.16 est la version 1.16.2 sorti le 19/12/2006, son changelog est disponible [ici](https://web.archive.org/web/20070505013048/http://dofus.jeuxonline.info/articles/3067/Notes-de-version-1.16.2), [ou ici](https://web.archive.org/web/20210613181316/https://www.dofus.com/fr/forum/1750-dofus/62128-details-informations-propos-prochaine-mise-jour-1-16-2-dofus). Cette mise à jour s'accompagne de la sortie de 2 nouveaux serveurs: Brumaire et Pouchecot.
 
 Il y a encore de nombreuses modifications, essentiellement concentrées sur le gameplay:
 - Nouveaux donjons, il s'agit de donjons présentés sous la forme d'un labyrinthe, il concerne des boss historiques du jeu et met fin aux boss en liberté présent depuis les dernières beta du jeu:
@@ -188,7 +192,7 @@ Après la période de noel, le 9/01/2007 le patch 1.16.4 est mis en ligne et peu
 
 ## Dofus 1.17
 
-Cette version est la première à intégré le système de beta bien dissociée des versions officielles. La version 1.17 beta est sortie le 31/01/2007 et ses modifications osnt disponibles [ici](https://web.archive.org/web/20070202091300/http://forum.dofus.com/topic.php?lang=fr&id=69356).
+Cette version est la première à intégré le système de beta bien dissociée des versions officielles. La version 1.17 beta est sortie le 31/01/2007 et ses modifications sont disponibles [ici](https://web.archive.org/web/20070202091300/http://forum.dofus.com/topic.php?lang=fr&id=69356).
 
 La version 1.17.0 sort officiellement le 13/02/2007, le même jour sort le serveur Silouate. Le changelog final de la 1.17.0 est disponible [ici](https://web.archive.org/web/20070223144404/http://forum.dofus.com/topic.php?lang=fr&id=70811).
 
@@ -208,7 +212,7 @@ Cette version est la première à intégrer l'allemand et l'espagnol, les commun
 
 La 7/04/2007 la version optionnelle 1.18.1 est mise en ligne, elle corrige quelques petits problèmes du client et les modifications sont consultables [ici](https://web.archive.org/web/20071021213420/http://forum.dofus.fr/topic.php?lang=fr&id=78713).
 
-La version 1.18.2 est sortie en beta le 30/04/2007, le changelog beta est disponible [ici](https://web.archive.org/web/20071021212953/http://forum.dofus.fr/topic.php?lang=fr&id=82997), la sortie officielle de cette mise à jour a eu lieu le 15/05/2007 et le changelog peux être lu [ici](https://web.archive.org/web/20071021213233/http://forum.dofus.fr/topic.php?lang=fr&id=85187), cette version contient diverses correction de bug.
+La version 1.18.2 est sortie en beta le 30/04/2007, le changelog beta est disponible [ici](https://web.archive.org/web/20071021212953/http://forum.dofus.fr/topic.php?lang=fr&id=82997), la sortie officielle de cette mise à jour a eu lieu le 15/05/2007 et le changelog peux être lu [ici](https://web.archive.org/web/20071021213233/http://forum.dofus.fr/topic.php?lang=fr&id=85187), cette version contient diverses correction de bug ainsi que l'ajout des cartes qui constituerons le nouveau contenu de la version 1.19.  
 
 Le 22 mai 2007 sort le serveur Amayiro, le 8ième serveur francophone
 
