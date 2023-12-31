@@ -88,19 +88,19 @@ Si vous avez des informations manquante à me transmette, ça m'intéresse! :)
 | 1.18.2 | 15 mai 2007 | [Changelog](https://web.archive.org/web/20071021213233/http://forum.dofus.fr/topic.php?lang=fr&id=85187) | - | - |
 | 1.18.3b | 1 juin 2007 | [Changelog](https://web.archive.org/web/20071021173325/http://forum.dofus.fr/topic.php?lang=fr&id=88301) | - | Version devenue la 1.19 |
 | 1.19 | 19 juin 2007 | [Changelog](https://web.archive.org/web/20071021173304/http://forum.dofus.fr/topic.php?lang=fr&id=91090) | - | Ajout des quête du chateau d'Amakna et ajout de diverses zones |
-| 1.20 | - | - | - | - |
-| 1.21 | - | - | - | - |
-| 1.21.1 | - | - | - | - |
-| 1.22 | - | - | - | - |
-| 1.23 | - | - | - | - |
-| 1.24 | - | - | - | - |
-| 1.25 | - | - | - | - |
-| 1.26 | - | - | - | - |
-| 1.27.0 | - | - | - | - |
-| 1.27.1 | - | - | - | - |
-| 1.28 | - | - | - | - |
-| 1.29.0 | - | - | - | - |
-| 1.29.1 | - | - | - | - |
+| 1.20 | 11 septembre 2007 | [Changelog](https://web.archive.org/web/20071013034518/http://forum.dofus.fr/topic.php?lang=fr&id=104993) | - | L'ile d'Otomai, grosse phase d'équilibrage, tous les sorts de classes ont un niveau 6 |
+| 1.21 | 18 décembre 2007 | [Changelog](https://web.archive.org/web/20080409144549/http://forum.dofus.fr/topic.php?lang=fr&id=117027) | - | Ajout de donjons très haut niveau |
+| 1.21.1 | 29 janvier 2008 | [Changelog](https://web.archive.org/web/20080406132331/http://forum.dofus.fr/topic.php?lang=fr&id=126337) | - | - |
+| 1.22 | 4 mars 2008 | [Changelog](https://web.archive.org/web/20080422192448/http://forum.dofus.fr/topic.php?lang=fr&id=132932) | - | Apparition des tourmenteurs |
+| 1.23 | 15 mars 2008 | [Changelog](https://web.archive.org/web/20080420045932/http://forum.dofus.fr/topic.php?lang=fr&id=139210) | - | Modifications sur les percepteurs, simplificiation du changement d'alignement |
+| 1.24 | 17 juin 2008 | [Changelog](https://web.archive.org/web/20080923141000/http://forum.dofus.fr/topic.php?lang=fr&id=151193) | - | Ajout de la quête du Dofus Ocre |
+| 1.25 | 23 septembre 2008 | [Changelog](https://web.archive.org/web/20080927211957/http://forum.dofus.fr/topic.php?lang=fr&id=176947) | - | Equilibrages et création du serveur héroique Oto Mustam |
+| 1.26 | 16 décembre 2008 | [Changelog](https://web.archive.org/web/20090221163232/http://forum.dofus.com/fr/le-carnet-de-bord-f2/version-1-26-0-t202463.html) | - | Ajout des traques et des challenges en combat |
+| 1.27.0 | 7 avril 2009 | [Changelog](https://web.archive.org/web/20090627051553/http://forum.dofus.com/fr/le-carnet-de-bord-f2/version-1-27-0-t242641.html) | - | Ajout des dopeuls de temple et du trousseau de clé, modifications de la fm et équilibrage général |
+| 1.27.1 | 13 mai 2009 | [Changelog](https://web.archive.org/web/20090523115432/http://forum.dofus.com/fr/le-carnet-de-bord-f2/patch-1-27-1---retour-des-boucliers-t260877.html) | - | Début de déploiement de petits patch via l'updater |
+| 1.28 | 15 juillet 2009 | [Changelog](https://web.archive.org/web/20091002010716/http://forum.dofus.com/fr/le-carnet-de-bord-f2/version-1-28-t286170.html) | - | Ajout des quêtes alignement 50 à 60 |
+| 1.29.0 | 29 septembre 2009 | [Changelog](https://web.archive.org/web/20100113131424/http://forum.dofus.com/fr/le-carnet-de-bord-f2/version-1-29-t304987.html) | - | Divers équilibrages |
+| 1.29.1 | 15 décembre 2009 | [Changelog](https://web.archive.org/web/20100114050925/http://forum.dofus.com/fr/le-carnet-de-bord-f2/modifications-apportees-par-la-version-1-29-1-du-15-12-09-t330165.html) | - | Ajout de la panoplie du Roks Or |
 
 ## Versions Dofus Rétro
 
