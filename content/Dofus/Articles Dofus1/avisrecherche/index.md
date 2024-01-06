@@ -61,6 +61,8 @@ Même si il n'a jamais été implanté, cet vis de recherche n'a pas été retir
 
 Cet avis de recherche n'en est pas vraiment un, Léthaline n'a été présente que pendant l'évènement d'Uk'Not'Allag le 21 avril 2006. La daté évoquée dans le document est le 26 avril 2006 qui n'était pas un vendredi, le fichier a été généré le 24 avril 2006 soit 2 jours avant la date indiquée dans le document.
 
+Il est possible de trouver des traces de quêtes en cours de création dans les fichiers de dofus Rétro, Uk'Not'Allag et Léthaline devait être réimplantés en jeu.  
+
 Voici son avis de recherche original, la version de dofus retro a été légèrement modifiée:
 ![](images/65.png)
 
