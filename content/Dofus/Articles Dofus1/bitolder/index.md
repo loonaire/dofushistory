@@ -51,6 +51,11 @@ Infos extrait des fichiers:
 Le monstre n'a pas d'artwork qui s'affiche lorsque c'est a son tour de jouer et il n'a également aucune ressource associée.
 Il est dans la catégorie monstres divers / Boss et il semble pouvoir drop des pierres précieuses (diamant, emeraude, rubis, cristal)(cf: solomonk.fr le bestiaire et le dofus wiki fandom).
 
+D'après un cd presskit, un fichier indique des informations sur le bitolder:
+- Il n'avais qu'une animation de marche
+- Sa priorité étais de frapper à distance plutot qu'au corps à corps 
+
+
 ## 3. Son sort  
 
 A ma connaissance, c'est son seul sort, il s'appel Teubatak et son id est 237. Le nom anglais est également Teubatak, il ne semble pas avoir d'animation et le sort ne semble pas équilibré, il s'agit probablement d'un sort de test ou crée par amusement.
