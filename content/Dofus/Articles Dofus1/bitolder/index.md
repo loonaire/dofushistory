@@ -36,6 +36,8 @@ Enfin, peux être son sort ou une animation de mort:
 
 Le fichier présent dans la version 1.9.1 du client de dofus n'a pas été mis à jour pour être compatible avec cette version, il a cependant été recompilé pour cette version. Il est possible de faire refonctionner le fichier en donnant un nom aux animations présentes dans le fichier. Le fichier présent dans la 1.9.1 est compilé pour flash player 7 or il semble que les sprite soit prévu pour les versions plus aciennes de dofus (premières beta sous flash player 6).
 
+D'après le fichier qui liste les mosntres dans un CD presskit de 2007, le Bitolder semble ne pas exister dans l'éditeur de mosntre d'Ankama en 2007, il a surement été retiré ou n'a jamais été présent.
+
 ## 2. Ses informations  
 
 Ses caractéristiques sont disponible ici: https://dofuswiki.fandom.com/wiki/Bitolder ( et il me semble sur un autre site avec son image mais je n'ai plus le lien).
@@ -175,6 +177,7 @@ Merci à Liche qui fait des vidéos sur le sujet et qui en a parler. [Voir sa vi
 
 ## CHANGELOG:
 
+02/02/2024: Ajout des informations sur le comportement du monstre
 05/10/2023: Modification de certaines parties qui concernent flash player suite au debug du sprite  
 07/01/2023: Ajout du lien entre le croquefeuille et la maison arbre  
 05/01/2023: Ajout d'une partie sur l'accès à la grotte et ajout d'une 3ième supposition  
