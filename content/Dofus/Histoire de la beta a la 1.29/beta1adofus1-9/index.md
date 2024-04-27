@@ -401,7 +401,7 @@ Il est question [ici](https://web.archive.org/web/20230501112724/https://forums.
 Cette mise à jour est sortie le 20 juillet 2005, le changelog peux être consulté [ici](https://web.archive.org/web/20051028174559/http://forum.dofus.com/topic.php?id=17140), pour les joueurs, elle n'ajoute rien. Mais pour les développeurs elle change beaucoup de choses, le client est modifié pour pouvoir être utilisé avec plusieurs langues. En même temps que la sortie de cette mise à jour, une nouvelle version du site est sortie (pour la version anglaise) ainsi que la partie communauté du forum est ajoutée. 
 Le 16 aout 2005 un reboot avec des modifications a eu lieu ([source](https://web.archive.org/web/20061117004523/http://dofus.jeuxonline.info/actualites/8250.html)). 
 
- Cette version se raproche d'une beta, elle sert à corriger les bug pour la version anglaise et repartir sur une bonne base pour la suite. Le client de la première version anglaise semble être un client spécifique indépendant de la "vraie" version 1.8 du jeu.
+Cette version est une beta pour la version internationale et elle corrige les bugs pour la version internationale et repartir sur une bonne base pour la suite. Le client de la première version anglaise semble être un client spécifique indépendant de la "vraie" version 1.8 du jeu mais sur [ce lien](https://web.archive.org/web/20050724014910/http://download.dofus.com:80/), les liens de téléchargement sont ceux de la version 1.8.0 classique malgré qu'il soit indiqué sur le site qu'il s'agit de la version 1.0 beta. A partir de la version 1.9, la version anglaise semble avoir repris ce numéro de version, ainsi il n'y a jamais eu de différence de version entre la version française et la version internationale.
 
 ### Dofus 1.9
 
