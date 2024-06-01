@@ -26,7 +26,7 @@ Si vous avez des informations manquante à me transmette, ça m'intéresse! :)
 | v9.1b | 12 mars 2004 | [Changelog](https://web.archive.org/web/20040403200327/http://dofus.com:80/?page=informations&rubrique=news&contenu=news_display&idnews=57) | [Copie du changelog](changelogsbeta#v91b) | Corrige des problèmes de performances, dernière version en beta fermée |
 | v10b | 7 avril 2004 | dofus times 3 | [Copie du changelog](changelogsbeta#v10b) | Première version en beta ouverte |
 | v11b | 5 mai 2004 | [Changelog](https://web.archive.org/web/20040605182939/http://dofus.com:80/?page=informations&rubrique=news&contenu=news_display&idnews=82) | [Copie du changelog](changelogsbeta#v11b) | - |
-| v12b | 12 mai 2004 (à confirmer) | Indisponible | - | Avant première des accès aux combats contre les monstres pour les personnages [M] |
+| v12b | 12 mai 2004 | Indisponible | - | Avant première des accès aux combats contre les monstres pour les personnages [M] |
 | v13b | 28 mai 2004 | [Changelog](https://web.archive.org/web/20040706115519/http://www.dofus.com/index.php?page=informations&rubrique=betatests&ssrubrique=beta13&contenu=beta13) | [Copie du changelog](changelogsbeta#v13b) | Disparition des armes visible des personnages |
 | v13.1b | Inconnue | Indisponible | - | Aucune information sur cette mise à jour |
 | v14b | Jamais sortie | Indisponible | - | Version sortie en interne seulement, peux être auprès des joueurs [M] seulement, à confirmer |
