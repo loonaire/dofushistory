@@ -12,7 +12,7 @@ Des références à ce monstre sont présentes à différents endroits:
 
 ### Le fichier sprite du Bitolder
 
-Le bitolder est présent dans les sprites du jeu de la version 1.9.1, il est possible que le sprite ai été présent dans plusieurs versions avant ou après cette version cependant je ne pas pas le confirmé (il n'est pas présent dans la 1.13).   
+Le bitolder est présent dans les sprites du jeu de la version 1.9.1 ainsi que dans les fichiers de la version 1.10.0, il est possible que le sprite ai été présent dans plusieurs versions avant ou après cette version cependant je ne pas pas le confirmé (il n'est pas présent dans la 1.13).   
 Le fichier se nomme: 1094.swf et est dans le dossier /clips/sprites/ du jeu, le fichier à été crée pour flash player 7. La beta 17b s'arrête au sprite 1088 et la version suivante qui est la 1.0 possède un sprite 1095, le bitolder semble avoir été prévu pour la version 1.0 mais il a été retiré pour la sortie officielle (c'est le cas pour très peu de montre connu).  
 Dans la version 1.9.1, le fichier a été recompilé le 7 février 2005 soit pour la sortie de la version 1.5, le fichier a pour destination flash player 7, la première version du monstre devait être à destination de flash player 6 (voir 5) pour être compatible avec les anciennes versions du jeu (cf: sprites 1088 et 1095 des versions 1.0 et 1.9.1 qui sont en version swf 6 puis 7). La première apparition du fichier du bitolder est peux être la version 1.5 et il a été supprimé entre la version 1.9.1 et 1.13.0 lors du passage à flash player 8 à l'occasion d'un nettoyage des sprites du jeu.
 
@@ -177,6 +177,7 @@ Merci à Liche qui fait des vidéos sur le sujet et qui en a parler. [Voir sa vi
 
 ## CHANGELOG:
 
+05/06/2024: Ajout de la présence du fichier du bitolder dans la version 1.10.0
 02/02/2024: Ajout des informations sur le comportement du monstre
 05/10/2023: Modification de certaines parties qui concernent flash player suite au debug du sprite  
 07/01/2023: Ajout du lien entre le croquefeuille et la maison arbre  
