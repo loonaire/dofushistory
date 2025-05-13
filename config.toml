@@ -1,11 +1,11 @@
-#baseURL = "https://loonaire.github.io/dofus1history/"
+baseurl = "https://loonaire.github.io/dofus1history/"
 canonifyURLs = true
 relativeURLs = true
 
 languageCode = "fr-fr"
 title = "Dofus History"
 theme = "hugo-theme-relearn"
-copyright = "Contenu géré par Loonaire, certaines images utilisées sont la propriété d'Ankama Games"
+
 
 defaultContentLanguage = "fr"
 [languages]
@@ -19,7 +19,7 @@ defaultContentLanguage = "fr"
 
 
 [params]
-
+  copyright = "Contenu géré par Loonaire, certaines images utilisées sont la propriété d'Ankama Games"
   #-----------------------------------------
   # Paramètres du thème RELEARN 
   #-----------------------------------------
