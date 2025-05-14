@@ -74,7 +74,7 @@ Tout d'abord, comme nous avons pu l'annoncer sur le forum, **cette mise à jour 
 **Ce déplacement aura pour conséquence une indisponibilité du serveur de 8h30 à 14h00 environ.**  
 À la fin de la manipulation, vous profiterez d'un meilleur débit sur le serveur et la version 1.4 de Dofus sera installée et disponible.
 
-Enfin, vous pouvez découvrir ci-dessous d'autres nouveautés et améliorations qui viennent compléter l'impressionnante [**liste publiée le 09/12/2004**](/web/20041221193242/http://www.dofus.com/?page=news&rubrique=news&contenu=news_display&idnews=156).
+Enfin, vous pouvez découvrir ci-dessous d'autres nouveautés et améliorations qui viennent compléter l'impressionnante [**liste publiée le 09/12/2004**](https://web.archive.org/web/20041221193242/http://www.dofus.com/?page=news&rubrique=news&contenu=news_display&idnews=156).
 
 **L'Aura**  
 Les personnages de niveau 100 et supérieurs sont tellement talentueux que leur Aura est visible de tous. Il s'agit d'un halo au sol avec des éclairs (non visible en combat).

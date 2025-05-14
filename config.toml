@@ -1,4 +1,4 @@
-baseurl = "https://loonaire.github.io/dofus1history/"
+#baseurl = "https://loonaire.github.io/dofus1history/"
 canonifyURLs = true
 relativeURLs = true
 
@@ -15,6 +15,7 @@ defaultContentLanguage = "fr"
 # Affiche les icones dans la barre du haut
 # FIXME ne marche pas?
 #[outputs]
+#  home = ['html']
 #  home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE","PRINT"]
 
 
@@ -31,14 +32,15 @@ defaultContentLanguage = "fr"
   # Useful to give opportunity to people to create merge request for your doc.
   # See the config.toml file from this documentation site to have an example.
   editURL = ""
-  # Author of the site, will be used in meta information
-  author = "Loonaire"
+  [params.author]
+    # Author of the site, will be used in meta information
+    author = "Loonaire"
   # Description of the site, will be used in meta information
   description = "L'histoire du MMORPG Dofus version beta à Dofus 1.29"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = false
   # Disable search function. It will hide search bar
-  disableSearch = false
+  disableSearch = true
   # Disable search in hidden pages, otherwise they will be shown in search box
   disableSearchHiddenPages = false
   # Disables hidden pages from showing up in the sitemap and on Google (et all), otherwise they may be indexed by search engines
@@ -89,7 +91,6 @@ defaultContentLanguage = "fr"
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Eg. can be "red", "blue", "green" or an array like [ "blue", "green" ].
   #themeVariant = "relearn-light"
-  #themeVariant = "relearn-dark"
   themeVariant = ["relearn-dark-custom", "relearn-dark", "relearn-light"]
 
   # Change the title separator. Default to "::".

@@ -1,5 +1,4 @@
 <style>
-    
     #logo svg,
     #logo svg * {
       color: #282828;
@@ -51,7 +50,7 @@
     }
     
   </style>
-  <a id="logo" href="{{ partial "relLangPrettyUglyURL.hugo" (dict "to" .Site.Home) }}">
+  <a id="logo" href="{{ partial "permalink.gotmpl" (dict "to" .Site.Home) }}">
     <img src="/assets/dofusbig.png" alt="Logo"> <br>
     Dofus <br>
     History

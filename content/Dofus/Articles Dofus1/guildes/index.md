@@ -11,14 +11,14 @@ Dans l'ensemble, le fonctionnement des le même que celui de dofus 1.29/retro av
 ## L'interface
 
 Sur Dofus 1.9/1.10 nous avons cette interface:
-![alt text](images/image1.png)
+![text](/images/image1.png)
 
 On remarque qu'il n'y a pas encore l'alignement d'affiché dans l'interface des guildes. Pour le reste, le concept de maison de guilde n'existe pas et le concept d'enclos n'existe pas (logique, ils ont été ajoutés avec la version 1.15).
 
 ## L'interface de gestion de membre
 
 La gestion de membre est presque identique à celle de dofus retro, avec des droits en moins et la gestion des rangs qui se fait directement via une liste d'élément plutot qu'une liste déroulante (présente à partir de dofus 1.14 ou 1.15).
-![alt text](images/image2.png)
+![text](/images/image2.png)
 
 ## Les rangs
 
