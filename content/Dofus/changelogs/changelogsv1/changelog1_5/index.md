@@ -4,6 +4,47 @@ date: 2023-04-30T16:03:00+02:00
 draft: false
 ---
 
+ ## Note de Tot sur les guildes
+
+ [lien](https://www.dofus.com/fr/forum/1750-dofus/6337-mise-jour-07-02-2005)
+Mise à jour du 07 02 2005 Par [Tot]#4270 - JAMAIS ABONNÉ - 17 Janvier 2005 - 17:48:55
+AnkaTracker
+EDIT de toma : C'est bien le 08/02/2005 (un mardi comme d'hab)... Tot, on va raser tes cheveux et ta barbe (zut, Kam l'a déjà fait).
+
+Bonjour à tous,
+
+Les guildes :
+Voici pour commencer les règles de guilde que nous allons sortir le 7 février. Cette fonction va (en tout cas nous l’espérons) rajouter pas mal de PVP.
+Tout d’abord une guilde ne peut pas être effective tant qu’elle ne comporte pas au moins 10 membres.
+90% de l’évolution d’une guilde repose sur les percepteurs.
+Les percepteurs peuvent être placés sur une zone pour :
+
+    Avoir un gain sur chaque ressource récoltée par un joueur (attention, cela n’est pas une taxe. Si un percepteur récupère 50% sur les ressources d’un paysan par exemple, le paysan gagnera ses 10 de blés, comme d’habitude, mais le percepteur gagnera 5)
+    Un percepteur aura une chance de récupérer un objet droppé par un joueur. La probabilité est infime mais sera tout de même présente.
+    Un percepteur infligera une taxe aux marchands se trouvant sur sa carte.
+
+
+Les membres d’une guilde vont avoir à passer de nombreux niveaux pour pouvoir acheter et entraîner leurs percepteurs et leur offrir des sorts de soutiens, des résistances, sorts d’attaqueâ¦Les percepteurs représentant la pièce maîtresse d’une guilde, ses membres auront à cœur de bien les surveiller. Leur nombre augmente en fonction du niveau de la guilde.
+
+Attention : Les percepteurs, s’ils sont détruits par des ennemis ont un prix pour pouvoir être relancés. On base ce prix à 1000 Kamas par niveau de la guilde. Ce principe vient du fait qu’un percepteur devient de plus en plus puissant en fonction de la guilde qui l’emploie et que l’argent à débourser va directement à l’hôpital pour soigner ses blessures.
+
+L’expérience à gagner pour booster une guilde est la même que celle d’un joueur multipliée par 100.
+De plus cela va valoriser le nombre. Même les gros joueurs devront se lier à des petits levels pour récupérer le plus de niveaux possibles. De plus pour accentuer le côté « coopération » nous avons mis quelques règles d’exp au point pour les gros niveaux.
+Comme pour les monstres une limite de niveau avec une régression en fonction du niveau du joueur par rapport au niveau de la guilde est en train d’être travaillé.
+
+Maintenant que se passe t’il pour un joueur ne faisant pas partie d’une guilde ?
+Rien. Simplement le joueur ayant l’envie de gagner quelques Kamas pourra attaquer les percepteurs, en cas de victoire il dérobera tout ce qu’il possède.
+Un percepteur attaqué envoie un message à ses « maîtres », ceux çi pourront alors directement le rejoindre pour lui prêter main forte.
+
+En gros, les percepteurs vont récupérer des bonus supplémentaires et il faudra se battre pour les avoir. Vous ne vous intéressez pas au PVP, pas de problèmes ça ne changera rien pour vous, par contre, les joueurs qui ont la nostalgie des combats en PVP seront ravis.
+
+Les runes
+Je sais que ça va être dur à vivre mais nous allons retirer les runes du monde d’Amakna. Nous allons à la place instaurer un système de waypoint. Nous avons longuement réfléchi et pour ce que nous allons ajouter comme nouvelles fonctions à l’avenir, il s’agit de la meilleure solution. De plus comme beaucoup nous l’on dit, les runes tuent la découverte du monde.
+Nous faisons cela pour éviter les abus sur les guildes et conquêtes de territoires que nous lancerons en avril - mai. Vous aurez bien sûr l’occasion de gagner des déplacements grâce aux waypoints mais devrez avant tout les découvrir.
+
+
+
+
 ## Dofus 1.5.0
 
 ### DOFUS - version 1.5
