@@ -179,3 +179,94 @@ S'agissant d'une mise à jour mineure, vous pouvez retrouver l'ensemble des nouv
 *   **Mot de torture** (bonus ne s'arrêtant pas à la fin du combat)
 
 Ces améliorations ne sont pas obligatoires. Toutefois, si vous utilisez la version avec Updater, la mise à jour est automatique. Pour les autres, vous pouvez accéder à la v1.5.1 ou v1.5.2 sans distinction.
+
+
+## Les potentiels futurs métiers
+
+[Source](https://www.dofus.com/fr/forum/1750-dofus/6412-nouveaux-metiers)
+
+Copie du post:
+
+Nouveaux métiers
+Par 19 Janvier 2005 - 09:54:07
+
+Pour les deux prochaines mises à jour, de nouveaux métiers seront implémentés.
+
+Rien n'est définitif pour le moment, ce post subira des changements au fil de la discussion avec les joueurs.
+
+Edit :2/02
+
+~~~~~~~~~~~~~Pour la mise à jour du 8 février~~~~~~~~~~~~~~~~~~
+
+Spécialiste forgeur : FORGEMAGE
+Un joueur de lvl 65 en métier de forgeur pourra faire une quête pour obtenir une spécialisation. Cette spécialisation lui permettra d'accéder à des fonctions avancées du métier.
+
+Être forgemage permettra de :
+
+    Ajouter un élément à une arme
+    Ajouter une personnalisation sous la forme d'un bonus/malus sur une arme grâce à des runes
+
+
+(et si on a le temps)
+
+    Avoir une maîtrise telle qu'il peut reforger des items légendaires cassés.
+
+
+Autres
+
+    Des potions d'oubli de métier seront disponibles et assez faciles à faire
+    Ces potions enlèveront définitivement le métier ciblé.
+
+
+~~~~~~~~~~~~~~~~~~~Pour un peu plus tard~~~~~~~~~~~~~~~~~
+
+Les idées ci-dessous peuvent encore évoluer
+
+Chasseur : le chasseur ne tue pas seulement les monstres, il les dépèce aussi. Ainsi, il récupérera des items spécifiques en tuant des monstres (viandes, cuirs...). Items qu'il pourra ensuite affiner pour les rendre utiles (matières premières et nourritures)
+Spécificité par rapport aux autres métiers : ressources récupérées uniquement sur les monstres.
+
+    Pour chasser le chasseur équipe son arme, lorsqu'il attaque un monstre il ne rentre pas en combat, mais en 'partie de chasse' :
+    Aucun sort de classe disponible
+    uniquement l'arme de chasseur
+    Pas d'xp, uniquement de l'xp métier
+    Un animal de compagnie vient vous épauler durant ce combat
+    drop uniquement des ressources pour le chasseur
+    Il existera plusieurs armes pour le combat.
+    Selon le lvl du chasseur, son animal sera plus fort, et lui-même fera plus de dégâts, lui permettant de chasser de plus grosse proie
+
+
+Pêcheur : Quoi de plus agréable que de s'asseoir devant une rivière et d'y pêcher le poisson tout en somnolant au bruit des clapotis de l'eau ? Ce métier vous permettra de faire de ce rêve une réalité.
+Différents appâts et différents points d'eau vous permettront de pécher de plus ou moins rares/grosses prises...voire très grosses ! A vous ensuite de préparer le poisson pour le vendre sur les marchés en criant d'une grosse voix (du roleplay pas du flood).
+Spécificités du métier :
+
+    Le résultat de la pêche dépend des objets que vous équipez et des points de pêche.(a voir techniquement)
+    De la semaine (a voir techniquement)
+    possibilité de rater
+    un seul par prise
+
+
+Cuisinier : Nul besoin de présenter cet artiste des aliments, ce mage de la gourmandise, ce charmeur de papilles gustatives...Le cuisinier pourra, grâce aux matières premières venues de nombreux métiers, préparer de délicieux petits plats.
+
+    Ces plats donneront beaucoup de vie
+    Et un bonus temporaire pour les prochains combats à venir.
+    Les plats ne peuvent être mangés que dans des restaurants.
+    Bonus non cumulable
+    Bonus durant pour un nombre de combats définis
+    Ce nombre n'est pas réduit dans le cas d'une exclusion au début d'un combat
+    Dépend des autres métiers qui travaillent la nourriture.
+    Quelques plats à emporter uniquement (un crok feca par exemple)
+
+
+    D'autres spécialisations pour les autres métiers
+
+
+Les autres nouveautés
+
+    Il y a une chance, selon l'endroit où vous récoltez, de vous faire attaquer par un monstre que vous aurez dérangé pendant sa sieste. Certains monstres, terriblement timides, ne seraient accessibles que de cette manière.
+    Certains types de monstres n'apparaîtraient qu'avec des outils spéciaux.
+    Les montres ne seraient présent que dans certaines zones sauvages du monde, et la chance d'en rencontrer un dans les champs d'Amkana serait donc vraiment infime.
+    Il y a une chance, selon l'endroit...etc... de tomber sur un objet par chance. Trouver une bague en fauchant les blés, etc...
+    Un critère sur le lvl du métier va apparaître. Certains objets seront donc possibles à équiper seulement avec le métier correspondant au bon level.
+    Des chapeaux avec ces critères seront ajoutés : permettant de faciliter la vente en mode marchand : en équipant son chapeau de boulanger on permet aux autres de comprendre d'un seul coup d'oeil la nature de la marchandise que l'on vend.
+    Certains objets (armes etc...) rares auront eux aussi ce critère.
+

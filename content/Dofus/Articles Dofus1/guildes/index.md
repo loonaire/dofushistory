@@ -7,6 +7,22 @@ draft: false
 J'ai trouvé très peu de chose sur les premières versions des guildes, alors voici un peu d'explication sur le fonctionnement des débuts des guildes.
 Dans l'ensemble, le fonctionnement des le même que celui de dofus 1.29/retro avec du contenu en moins.
 
+## Les informations générales
+
+Le nombre de membre est de 20 + le niveau de la guilde   
+La guilde gagne 5 points de boost par niveau  
+Le tableau d'xp des guildes est de 100 fois le nombre d'xp nécessaire pour les personnages  
+Avant la 1.23:  
+Le nombre de percepteur est influé par le niveau de la guilde (à partir de la 1.23, doit être boost)    
+Les pdv des percepteurs sont 100 * le niveau de guilde  
+Le bonus de dommages des percepteurs correspond au niveau de la guilde  
+
+Les sorts des percepteurs sont:  
+- Les sorts de défense : Armure aqueuse, Armure Terrestre, Armure Incandescente, Armure Venteuse.
+- Les sorts d'attaque : Rocher, Flamme, Vague, Cyclone.
+- Les sorts de soutien : Mot Soignant, Désenvoûtement, Compulsion de masse, Déstabilisation.
+
+
 
 ## L'interface
 
@@ -69,3 +85,14 @@ Voici les sources pour les rangs:
 - [Un second lien qui en parle](https://web.archive.org/web/20250513181635/https://forums.jeuxonline.info/sujet/613569/comment-gerer-sa-guilde#post10803768)
 - [La liste des rangs sur la 1.14.2](https://web.archive.org/web/20250513183001/https://forums.jeuxonline.info/sujet/709478-2/nouveaux-rangs-guildouniens)
 - [Page 1 du sujet précédent](https://web.archive.org/web/20250513183435/https://forums.jeuxonline.info/sujet/709478/nouveaux-rangs-guildouniens)
+
+## L'interface des percepteurs
+
+La version 1.10 a ajouté quelques options sur les percepteurs.
+A noté: La feature des Percepteurs a été revue avec la version 1.23, il y a eu le retrait des éléments volés et la transformation par un boost de pp et de dommages.
+
+Interface de la version 1.9:
+![alt text](images/image3.png.png)
+
+Interface de la version 1.10:
+![alt text](images/image4.png)
