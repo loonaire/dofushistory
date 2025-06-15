@@ -207,6 +207,10 @@ Un screen de cette version peux être vu [ici](https://web.archive.org/web/20221
 
 Pour terminer sur cette version, je souhaite revenir sur [ce screen](https://web.archive.org/web/20221221143548/http://xenografter.chez-alice.fr/Screenshots/Blonde%20Powa.JPG), Liche évoque dans une vidéo la v12b car on vois l'arme du personnage, cependant lors de recherches j'avais lu que le Dark Vlad a été implanté avec la v15b avec la forêt maléfique (je n'ai plus la source). J'ai un doute sur la version du jeu, la carte correspond à celle de la forêt maléfique mais le fichier du Dark Vlad de la v17.1b indique que le sprite proviens de la v13b. Je n'ai pas non plus d'information si le personnage est un [M] mais peux être qu'il s'agit juste d'une carte de test avec le Dark Vlad sans que la forêt maléfique ne soit ajoutée au jeu, cela expliquerai la v12b du screen.
 
+#### Reconnaire un screen de la v12b par rapport à la v13b
+
+Comme il est compliqué de reconnaitres les différentes versions beta de cette périodes et que les version 12 et 13 sont très proches sur l'interface, pour reconnaitre simplement la v12b de la v13b il faut regarder le palcement du bouton bug en haut de l'écran: sur la v12b il est en haut à gauche, sur la v13b, il est en haut à droite.
+
 ### Ce qui est planifié pour Dofus au moment de la v12b
 
 Je m'arrête sur [ce sujet](https://web.archive.org/web/20040607043411/http://forum.dofus.com:80/CarnetBord/Graph/54549-TempsEtFonctionsDeLaVersionFinale) publié par Tot sur le forum le 23 mai 2004. Il évoque ce qui est prévu d'être fait pour les prochaines versions du jeu, tous ne sera pas réalisé mais voici ce qu'il évoque comme changement:
