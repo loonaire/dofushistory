@@ -8,7 +8,7 @@ draft: false
 
 Des références à ce monstre sont présentes à différents endroits:
     - Dans les "langs", dans la version française il est nommé bitolder, il est encore présent dans la version 1.39 de dofus rétro.
-    - Dans le fichier sprite.xml (présent à partie de la 1.16), il est appelé BITEHOLDER. Il est supprimé de ce fichier dans les dernières version de la version 1 du jeu (à partir de la version 1.21). Le nom biteholder pourrais être le jeu de mot de base du bitolder avant d'être revu pour être plus correct.
+    - Dans le fichier sprite.xml (présent à partie de la 1.16.2), il est appelé BITEHOLDER. Il est supprimé de ce fichier dans les dernières version de la version 1 du jeu (à partir de la version 1.21). Le nom biteholder pourrais être le jeu de mot de base du bitolder avant d'être revu pour être plus correct.
 
 ### Le fichier sprite du Bitolder
 
@@ -34,9 +34,18 @@ Enfin, peux être son sort ou une animation de mort:
 ![](images/frames9.gif) 
 
 
-Le fichier présent dans la version 1.9.1 du client de dofus n'a pas été mis à jour pour être compatible avec cette version, il a cependant été recompilé pour cette version. Il est possible de faire refonctionner le fichier en donnant un nom aux animations présentes dans le fichier. Le fichier présent dans la 1.9.1 est compilé pour flash player 7 or il semble que les sprite soit prévu pour les versions plus aciennes de dofus (premières beta sous flash player 6).
+Le fichier présent dans la version 1.9.1 du client de dofus n'a pas été mis à jour pour être compatible avec cette version, il a cependant été recompilé pour cette version. Il est possible de faire refonctionner le fichier en donnant un nom aux animations présentes dans le fichier. Le fichier présent dans la 1.9.1 est compilé pour flash player 7 or il semble que les sprite soit prévu pour les versions plus aciennes de dofus (premières beta sous flash player 6). La beta v5b arrive à correctement charger les informations du bitolder.
 
-D'après le fichier qui liste les mosntres dans un CD presskit de 2007, le Bitolder semble ne pas exister dans l'éditeur de mosntre d'Ankama en 2007, il a surement été retiré ou n'a jamais été présent.
+D'après le fichier qui liste les monstres dans un CD presskit de 2007, le Bitolder semble ne pas exister dans l'éditeur de mosntre d'Ankama en 2007, il a surement été retiré ou n'a jamais été présent.
+
+Avec la version 1.15.0 (version beta) le sprite fait temporairement son retour dans les fichiers, cette fois il fonctionne sur le client sans modification.
+
+### Sa présence dans clients
+
+Il est présent dans les clients 1.9.1, 1.10, 1.11.1 et retiré dans la version 1.12. Cette version du sprite est buguée et ne fonctionne pas sans modification.
+Il est de retour dans la version 1.15.0 qui est une beta et restera présent dans la seconde beta 1.15.1 puis dans la version officielle 1.15.2, cette fois ci il fonctionne et peux surement être utilisé dans les versions 1.29 et retro!
+
+Son apparation dans la 1.9 pourrait venir du changement de version de flash player, son retour dans la 1.15 est compliqué à expliquer, il n'y a pas eu d'évolution du lecteur flash. La cause pourrait être l'apparition du mode TEST dans le client ou bien à cause de l'intégration des fichiers lang dans le client.
 
 ## 2. Ses informations  
 
@@ -88,7 +97,7 @@ Les éléments interessants de la carte:
 
 La première version disponible de cette carte date de mai 2005 (version 1.7), elle a peux être des versions encore plus anciennes.   
 
-La carte n'existe plus dans les versions 1.20, elle semble avoir été retirée du client, tout comme le bitolder. Elle est réapparue avec la version 1.38 de dofus retro dans une version corrigée (il n'est plus possible de marcher sur le décors), sa sous-zone a changée pour être intégrée à la sous-zone sous terrain mystérieux qui contient les cartes des émotes ainsi que les cartes d'autres sous terrains. 
+La carte n'existe plus dans les versions 1.20, elle semble avoir été retirée du client, tout comme le bitolder. Elle est réapparue avec la version 1.38 de dofus retro dans une version corrigée (il n'est plus possible de marcher sur le décor), sa sous-zone a changée pour être intégrée à la sous-zone sous-terrain mystérieux qui contient les cartes des émotes ainsi que les cartes d'autres sous terrains. 
 
 ## 5. La carte de l'entrée de la grotte  
 
@@ -123,7 +132,7 @@ Le dialogue de pnj semble être lié à un lore autour de l'agence touriste et d
 
 Il est possible que le bitolder a été crée dans les version beta au moment du rush de création des monstres pour les beta après la v12b, il semble avoir été crée très tot dans le développement du jeu comme l'indique ces animations, le fait que le monstre soit très animé correspond à ce qui a été fait dans les versions beta avant la v15b.
 
-Une grande partie de l'histoire du monstre semble avoir été crée autour de l'agence touriste. Surement pour des raisons de temps de développement, bien qu'il ai été crée et prêt pour les dernières beta, il étais prévu pour la version 1.0, peux être qu'il s'agissait d'un monstre pour le labyrinthe Dark Vlad. Cependant je pense que le sprite était corrompu ou incomplet et il n'a pas pu sortir, cependant au moment de la recompilation des sprites pour flash player 7, il est possible qu'il ai été ajouté aux fichiers du client par inatention et qu'il y soit resté pendant plusieurs versions avant d'être retiré lors du passage du client à Flash player 8. Le monstre aurait donc été retiré car non fonctionnel et inutile. J'ai également supposé qu'il aurais pu s'agir d'un pnj mais ce n'est pas possible, le monstre a un sort, des points de vie et des résistances.
+Une grande partie de l'histoire du monstre semble avoir été crée autour de l'agence touriste. Il semble avoir été crée et prêt pour les dernières beta, il devait être dans l'ajout des fichiers de la version 1.0, peux être qu'il s'agissait d'un monstre pour le labyrinthe Dark Vlad. Cependant je pense que le sprite était corrompu ou incomplet et il n'a pas pu sortir, cependant au moment de la recompilation des sprites pour flash player 7, il est possible qu'il ai été ajouté aux fichiers du client par inatention et qu'il y soit resté pendant plusieurs versions avant d'être retiré lors du passage du client à Flash player 8. Le monstre aurait donc été retiré car non fonctionnel et inutile. J'ai également supposé qu'il aurais pu s'agir d'un pnj mais ce n'est pas possible, le monstre a un sort, des points de vie et des résistances.
 
 ## 9. Une supposition sur la date de création du Bitolder
 
@@ -165,7 +174,6 @@ Pour continuer les recherches, je recherche:
 - Des infos sur la map de la maison de l'arbre avant sont déplacement (avant la v17b)
 - Des versions du jeu comprises entre dofus 1.1 et 1.9.0, la version 1.5.0 me semble la plus intéressante car il s'agit de celle qui à du mettre fin à l'utilisation de flash 6 et donc la version dans laquelle le bitolder aurait été ajouté.
 - Il me manque également le fichier qui contient l'interface de connexion des beta / des premières versions de dofus 1.x qui pourraient permettre de voir si le bitolder s'afficherai.
-- Avoir une version 1.14 "complète" permettrait peux être de mettre la main sur d'ancienne carte et sur du contenu non sorti en jeu.
 
 ## Les références au bitolder dans Dofus
 
@@ -177,6 +185,7 @@ Merci à Liche qui fait des vidéos sur le sujet et qui en a parler. [Voir sa vi
 
 ## CHANGELOG:
 
+11/07/2026: Ajout d'infos sur la présence du sprite suite à la récupération de la 1.14
 05/06/2024: Ajout de la présence du fichier du bitolder dans la version 1.10.0
 02/02/2024: Ajout des informations sur le comportement du monstre
 05/10/2023: Modification de certaines parties qui concernent flash player suite au debug du sprite  
