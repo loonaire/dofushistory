@@ -35,4 +35,5 @@ Il sagit d'un tetris like, il n'y a pas d'archivage valide pour ce jeu, la page 
 
 ## 3S Soccer 
 
-Un jeu de foot pour 3suisses, il n'y a aucune archive de ce jeu
+Un jeu de foot pour 3suisses.
+Le jeu a été archivé [ici](https://web.archive.org/web/20050908085642/http://3ssoccer.ankama.com:80/3ssoccer.swf), malheureusement il n'y a pas les mini jeux, sinon le jeu pourrais être rejouable.
