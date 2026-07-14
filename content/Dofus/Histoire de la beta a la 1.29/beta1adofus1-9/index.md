@@ -177,11 +177,27 @@ Cette version est la dernière qui utilise l'interface de couleur bleue, un des 
 
 ## 3. En route vers Dofus 1.0
 
+### La fin d'une ère
+
+A partir de la v11, nous avons le dofus "moderne" que nous connaissons encore avec dofus retro. Jusqu'à la v10, nous avons beaucoup de fonctionnalités du client qui ont été modifiées, à partir de la v11 ces fonctionnalités sont "stables" et ne seront plus beaucoup retouchées.  
+Beaucoup de choses vont être revues avec la v11:
+- L'interface intégralement revue, surtout la partie inventaire avec l'ajout du système de pods et amélioration de la visibilité des items en possession du personnage, dissociation des caractéristiques et de l'inventaire.
+- Retrait du bouton jeter depuis l'inventaire, désormais il faut faire glisser un item au sol
+- Ajout des slots des dofus ainsi que des slots de familier, cape et chapeau
+- Ajout d'un livre en jeu (icone du livre de quêtes de dofus 1.10+), ce livre permet de voir la carte du monde découpée en petite zones (comme un atlas, pour les plus agés qui liront ce poste). Il est la en cohabitation avec la carte ingame des défis et des personnes connectées en jeu.  
+- Ajout de cases dans la barre de sorts qui passe à 14 emplacements
+- Refonte complète des objets:
+    - Les objets ont désormais des descriptions
+    - La description et les effets des objets sont séparés
+    - Chaque objet à un nom et des effets. Jusqu'à la v10 un objet était "unique": le nom de l'objet correspondait à ses effets
+
+Pour l'occasion le système de lang sera modifié à partir de la v12 pour quelque chose de plus moderne qui restera jusqu'à la verson 1.13.2.
+
 ### Dofus v11b
 
 Cette version est sortie le 5 mai 2004. Son changelog est disponible [ici](https://web.archive.org/web/20040605182939/http://dofus.com:80/?page=informations&rubrique=news&contenu=news_display&idnews=82), bien quelle soit une version de transition vers la v12b et l'ajout des monstres, elle apporte beaucoup de modification dans le gameplay et une modfication de l'interface en jeu. Dans les petits ajouts de cette version il y a l'ajout du système de pdv à restaurer après un combat, l'amélioration de la gestion des combats et la création des objets pour récupérer de la vie.
 
-Du coté du client il y a plusieurs modifications importantes, tout d'abord l'interface de jeu est modifiée, on peux la voir dans une vidéo de Liche [ici](https://youtu.be/4GuvZsz9OVc?t=422). Attention, seule l'interface de jeu a été modifié, l'interface de connexion ainsi que l'interface de choix de personnage restera la même (en  bleu) jusqu'à la dernière beta du jeu (v17.2b). Cette version est reconnaissable car la couleur de fond du chat est foncée, elle sera dnas les versions suivantes éclaircie. On remarque également la mise en place de la barre des icones de caractéristique, d'inventaire, ... . Sur celle-ci, comme on peux le voir dans le changelog, les caractéristiques ont leur propre interface. L'interface de l'inventaire est devenue celle qui sera utilisée sur Dofus 1.29, cependant pour l'équipement il devais encore manquer les capes, coiffes, familiers et les emplacements des Dofus, la case qui servais à jeter les objets à également été retirée avec cette version. A droite du bouton d'inventaire, le bouton avec le livre fait son apparition, dans le changelog il est mention d'un carnet de bord, il semble qu'il s'agissait d'un livre qui permettait de voir la carte du monde découpée en petit carré de cartes et il semblait prévu d'ajouter des guides et des suivis de progressions dans ce livre. Du coté de la barre des sorts, elle passe de 10 sorts à 14 sorts ce qui montre que les classes avaient de plus en plus de sort.  
+Du coté du client il y a plusieurs modifications importantes, tout d'abord l'interface de jeu est modifiée, on peux la voir dans une vidéo de Liche [ici](https://youtu.be/4GuvZsz9OVc?t=422). Attention, seule l'interface de jeu a été modifié, l'interface de connexion ainsi que l'interface de choix de personnage restera la même (en  bleu) jusqu'à la dernière beta du jeu (v17.2b). Cette version est reconnaissable car la couleur de fond du chat est foncée, elle sera dans les versions suivantes uniformisée avec les autres beiges du jeu. On remarque également la mise en place de la barre des icones de caractéristique, d'inventaire, ... . Sur celle-ci, comme on peux le voir dans le changelog, les caractéristiques ont leur propre interface. L'interface de l'inventaire est devenue celle qui sera utilisée sur Dofus 1.29, cependant pour l'équipement il devais encore manquer les capes, coiffes, familiers et les emplacements des Dofus, la case qui servais à jeter les objets à également été retirée avec cette version. A droite du bouton d'inventaire, le bouton avec le livre fait son apparition, dans le changelog il est mention d'un carnet de bord, il s'agissait d'un livre qui permettait de voir la carte du monde découpée en petit carré de cartes et il semblait prévu d'ajouter des guides et des suivis de progressions dans ce livre. Du coté de la barre des sorts, elle passe de 10 sorts à 14 sorts ce qui montre que les classes avaient de plus en plus de sort.  
 La dernière grosse mise à jour du client semble provenir du moteur de son qui a été modifié et qui permet d'avoir différents son en fonction des zones.
 
 ### Dofus v12b
