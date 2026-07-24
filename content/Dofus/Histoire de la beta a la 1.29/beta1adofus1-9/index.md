@@ -137,7 +137,9 @@ D'après le changelog de la v9b, cette version retire la console multi du jeu, l
 
 Pour les v7b et v8b, il s'agit des dernières versions avec peu de documentation(surtout causé par la beta fermée), les versions suivantes seront mieux documentées.
 
-### Dofus v9b
+Ces version v8b -v9b sont également le passage de l'or en kama pour la monnaie du jeu. (sources: clients beta v10 qui intègre le kama)
+
+### Dofus v9bs
 
 La version v9b arrive le 10 mars 2004 avec beaucoup de modification lourdes. Le changelog est consultable [ici](https://web.archive.org/web/20040504015817/http://dofus.com:80/?page=informations&rubrique=news&contenu=news_display&idnews=56), même si il n'est pas long, il est très important. Une image de cette version 9b semble disponible [ici](https://web.archive.org/web/20040413155200/http://www.dofus.com:80/bonus/images/screenshots/09_intermaison_grand.jpg).  
 
