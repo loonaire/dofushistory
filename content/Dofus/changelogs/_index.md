@@ -32,18 +32,17 @@ Si vous avez des informations manquante à me transmette, ça m'intéresse! :)
 | v14b | Jamais sortie | Indisponible | - | Version sortie en interne seulement, peux être auprès des joueurs [M] seulement, à confirmer |
 | v15b | 5 juillet 2004 | [Changelog](https://web.archive.org/web/20040723072021/http://www.dofus.fr:80/?page=informations&rubrique=betatests&ssrubrique=beta15&contenu=beta15) | [Copie du changelog](changelogsbeta#v15b) | - |
 | v16b | 6 juilet 2004 | Indisponible | - | Correction des bugs de la v15b, [News d'annonce de cette version](https://web.archive.org/web/20040812144352/http://www.dofus.fr:80/?page=informations&rubrique=news&contenu=news_display&idnews=100) |
-| v17b | 30 juillet 2004 | Indisponible | - | Arrivée des dofus  et dernière version beta|
-| v17.1b | Inconnue, possiblement le 31 juillet 2004 | Indisponible | - | Possible première révision de la v17b, sinon à considérer comme la v17b |
-| v17.2b | 5 aout 2004 | [Changelog](https://web.archive.org/web/20040817025604/http://forum.dofus.com/CarnetBord/Dev/121065-ReV172bCorrectionsApporteesSuite) | [Copie du changelog](changelogsbeta#v172b) | Toute dernière version beta |
+| v17.1b | 30 juillet 2004 | Indisponible | - | Arrivée des dofus  et dernière version beta, première révision de la v17b, sinon à considérer comme la v17b |
+| v17.2b | 4 août 2004 | [Changelog](https://web.archive.org/web/20040817025604/http://forum.dofus.com/CarnetBord/Dev/121065-ReV172bCorrectionsApporteesSuite) | [Copie du changelog](changelogsbeta#v172b) | Toute dernière version beta |
 
 ## Versions 1.x
 
 | Version | Date de sortie | Source du changelog | Copie du changelog | Commentaire |
 | - | - | - | - | - |
 | 1.0 | 23 aout 2004 | [Changelog](https://web.archive.org/web/20040921070937/http://www.dofus.com/?page=news&rubrique=v1.0&contenu=v1.0)| [Copie du changelog](changelogsv1/changelog1_0)| Première version du jeu qui n'est pas une beta, sortie française officielle |
-| 1.1 |20 septembre 2004 | [Changelog](https://web.archive.org/web/20041028220648/http://www.dofus.com/?page=news&rubrique=v1.1&contenu=v1.1) | [Copie du changelog](changelogsv1/changelog1_1) | Ajout de l'ile des wabbits |
-| 1.2 | 11 octobre 2004 | [Changelog](https://web.archive.org/web/20041112070926/http://www.dofus.com/?page=news&rubrique=v1.2.1&contenu=v1.2.1) | [Copie du changelog](changelogsv1/changelog1_2/#dofus-12) | Modification de l'apparence des personnages |
-| 1.2.1 | 18 octobre 2004 | [Changelog](https://web.archive.org/web/20041103233231/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=148) | [Copie du changelog](changelogsv1/changelog1_2/#dofus-121) | Corrections de bug |
+| 1.1 |11 octobre 2004 | [Changelog](https://web.archive.org/web/20041028220648/http://www.dofus.com/?page=news&rubrique=v1.1&contenu=v1.1) | [Copie du changelog](changelogsv1/changelog1_1) | Ajout de l'ile des wabbits |
+| 1.2 | 18 octobre 2004 | [Changelog](https://web.archive.org/web/20041112070926/http://www.dofus.com/?page=news&rubrique=v1.2.1&contenu=v1.2.1) | [Copie du changelog](changelogsv1/changelog1_2/#dofus-12) | Modification de l'apparence des personnages |
+| 1.2.1 | 29 octobre 2004 | [Changelog](https://web.archive.org/web/20041103233231/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=148) | [Copie du changelog](changelogsv1/changelog1_2/#dofus-121) | Corrections de bug |
 | 1.3 | 15 novembre 2004 | [Changelog](https://web.archive.org/web/20041116110846/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=152) | [Copie du changelog](changelogsv1/changelog1_3/#dofus-13) | Ile de moon |
 | 1.3.1 |23 novembre 2004 | [Changelog](https://web.archive.org/web/20041208173514/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=155) |[Copie du changelog](changelogsv1/changelog1_3/#dofus-131) | Ajout de Tainéla et version beta des sacrieurs
 | 1.4 | 15 décembre 2004 | [Changelog](https://web.archive.org/web/20050126134629/http://www.dofus.com/?page=news&rubrique=news&contenu=news_display&idnews=156) | [Copie du changelog](changelogsv1/changelog1_4/#dofus-140) | [Second changelog](https://web.archive.org/web/20041221193242/http://www.dofus.com:80/?page=news&rubrique=news&contenu=news_display&idnews=158), Sortie officelle des sacrieurs, ajout des émotes, du mariage et de sufokia |
@@ -63,16 +62,17 @@ Si vous avez des informations manquante à me transmette, ça m'intéresse! :)
 | 1.9.1 | 2 septembre 2005 | [Changelog](https://web.archive.org/web/20060329080654/http://forum.dofus.com/topic.php?id=18854) | [Copie du changelog](changelogsv1/changelog1_9#dofus-191) | Correction d'un bug critique de la version 1.9.0 |
 | 1.10 | 25 octobre 2005 | [Changelog](https://web.archive.org/web/20051201102318/http://communaute.dofus.com:80/infos/versions.php) | [Changelog Anglais](https://web.archive.org/web/20061118125738/http://www1.dofus.com/community/infos/news.php?id=138#138) | Arrivé d'astrub et du mode free to play |
 | 1.11 | 20 décembre 2005 | [Changelog](https://web.archive.org/web/20230306132942/https://dofus.jeuxonline.info/actualite/9433/dofus-1110-disponible)  | - | Partie 2 d'Astrub ainsi que diverses corrections |
+| 1.11.1 | 21 décembre 2005 | | | |
 | 1.12 | 22 février 2006 | [Changelog](https://web.archive.org/web/20060228221418/http://communaute.dofus.com/infos/news.php?id=286) | [Changelog mise à jour corrective](https://web.archive.org/web/20060331034415/http://forum.dofus.com/topic_en.php?id=12395) | Arrivée de Pandala et de la classe Pandawa |
 | 1.13.0 | 14 mars 2006 | [Changelog](https://web.archive.org/web/20230519092712/https://www.dofus.com/fr/forum/1750-dofus/28043-mise-jour-14-mars) | - | Partie 2 de Pandala (donjons + Grobe) |
 | 1.13.1 | 18 mars 2006 | [Changelog](https://web.archive.org/web/20061117003127/http://dofus.jeuxonline.info:80/actualites/10271.html) | - | - |
 | 1.13.2 | 25 avril 2006 | [Changelog](https://web.archive.org/web/20230519092338/https://www.dofus.com/fr/forum/1750-dofus/31332-version-1-13-2-maintenance) | - | Arrivée de l'interface de connexion qui restera jusqu'à dofus 1.29 |
 | 1.14.0 | 11 juilet 2006 | [Changelog](https://web.archive.org/web/20210613172935/https://www.dofus.com/fr/forum/1750-dofus/42374-nouvelle-version-1-14-dofus) | - | Intégration des fichiers lang au client |
-| 1.14.1 | 19 juillet 2006 | [Changelog](https://web.archive.org/web/20061117005006/http://dofus.jeuxonline.info/actualites/11462.html) | - | - |
+| 1.14.1 | 18 juillet 2006 | [Changelog](https://web.archive.org/web/20061117005006/http://dofus.jeuxonline.info/actualites/11462.html) | - | - |
 | 1.14.2 | 5 septembre 2006 | [Changelog](https://web.archive.org/web/20060911071014/http://dofus.jeuxonline.info:80/articles/2632/Notes_de_version_1.14.2) | - | - |
-| 1.15.0 | - | - | - | - |
-| 1.15.1 | - | - | - | - |
-| 1.15.2 | 3 octobre 2005 | [Changelog](https://web.archive.org/web/20070320223332/http://dofus.jeuxonline.info:80/articles/2761/Notes_de_version_1.15.2) | [Changelog correctif serveur](https://web.archive.org/web/20231231204253/https://www.dofus.com/fr/forum/1750-dofus/54142-mise-jour-serveurs-06-10-06) | Sortie des montures et de la zone koalak |
+| 1.15.0 (beta) | 26 septembre 2006 | - | - | - |
+| 1.15.1 (beta) | 28-29 septembre 2006 | - | - | - |
+| 1.15.2 | 3 octobre 2006 | [Changelog](https://web.archive.org/web/20070320223332/http://dofus.jeuxonline.info:80/articles/2761/Notes_de_version_1.15.2) | [Changelog correctif serveur](https://web.archive.org/web/20231231204253/https://www.dofus.com/fr/forum/1750-dofus/54142-mise-jour-serveurs-06-10-06) | Sortie des montures et de la zone koalak |
 | 1.15.3 | 24 octobre 2006 | [Changelog](https://web.archive.org/web/20061130223618/http://forum.dofus.com/topic.php?lang=fr&id=55914) | - | Ajout de donjons et des familiers dévoreur d'âmes |
 | 1.15.4 | 26 octobre 2006 | [Changelog](https://web.archive.org/web/20061101012924/http://dofus.jeuxonline.info:80/articles/2908/Notes_de_version_1.15.4) | - | Correction de bug de la version 1.15.3 |
 | 1.16.0 | - | - | - | - |
