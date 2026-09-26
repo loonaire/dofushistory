@@ -10,6 +10,10 @@ Pour les 20ans de dofus 1.15 j'ai décidé d'écrire une petite page sur cette v
 Malheureusement je n'ai pas de changelog précis pour cette version, il peux donc y avoir des confusion entre la 1.14, la 1.15 et la 1.16.  
 Ce poste est un résumé de [cet article](https://web.archive.org/web/20070320223332/http://dofus.jeuxonline.info:80/articles/2761/Notes_de_version_1.15.2)
 
+## Le client Beta
+
+Dofus 1.15.0 Beta est la première version, sortie en version Beta "publique", malgré la limite de l'accès à une selection de joueurs il s'agit de la première fois que l'équipe de dev à sorti une version autre qu'une version officielle. Cette sortie fait suite aux améliorations du client qui permettent plus facilement d'être généré pour différentes versions du jeu.
+
 ## Un client mieux conçu
 
 Coté technique cette version 1.15 est intéressante sur beaucoup de points, déjà car elle fait suite à la 1.14 qui reprenais complètement la partie serveur du jeu (chaque serveur à sa base de donnée). Le chantier du client a été démarré avec la nouvelle interface de connexion de la 1.13.2 puis sur la 1.14 avec l'interface de choix de serveur, la 1.15 marque la fin de ce chantier avec la refonte de l'interface de choix de personnage.  
